@@ -1,0 +1,2118 @@
+[
+  [
+    {
+      "title": "Full Stack Python Developer",
+      "company": " Nitka Technologies",
+      "salary": "3 000-3 500 USD",
+      "href": "https://vladivostok.hh.ru/vacancy/35384955?query=python",
+      "responsibility": "Design API interfaces. - Evaluate and select appropriate technologies for scalable platform solutions. - Implement best practices for code quality. - ",
+      "requirement": "5+ years of experience in enterprise IT. - Python skills. - Strong javascript skills. - Data processing skills (DBs: SQL and NoSQL). - "
+    },
+    {
+      "title": "Python разработчик",
+      "company": " РокетМама",
+      "salary": "от 30 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35353435?query=python",
+      "responsibility": "Создана программа для разложения аудиофайлов на сигналы с помощью спектрального анализа.",
+      "requirement": "Адекватно реагировать на критику. Знание основных математических библиотек Python PyTorch. Твой уровень — junior или выше. Главное ты должен четко понимать..."
+    },
+    {
+      "title": "Python developer",
+      "company": "ООО АйТи Мегастар",
+      "salary": "80 000-130 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34007062?query=python",
+      "responsibility": "Разработка backend части приложений с нуля и доработка существующих. Архитектура баз данных. Деплой приложений на тестовый и боевой сервер. ",
+      "requirement": "Опыт разработки backend от 3 лет. Уверенное знание Python. Опыт использования REST API. Опыт работы с любой из реляционных баз..."
+    },
+    {
+      "title": "Middle/Senior Python Developer",
+      "company": " Группа Компаний СТАРТЕКС",
+      "salary": "120 000-150 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35353814?query=python",
+      "responsibility": "Участие во всем процессе разработки, начиная с проектирования web-приложений и сервисов, заканчивая итоговой реализацией в команде более 10 человек...",
+      "requirement": "Опыт программирования в любой среде — от 5 лет. Опыт программирования на Python — от 3 лет. Умение работать с Git. "
+    },
+    {
+      "title": "Python разработчик (сервис поиска)",
+      "company": " 2ГИС",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35016033?query=python",
+      "responsibility": "",
+      "requirement": "Необходимые навыки: Стремление решать проблемы, а не задачи по ТЗ. Уверенное знание SQL. Плюсом будет: Знание системы контроля версий (Git). "
+    },
+    {
+      "title": "Python разработчик",
+      "company": " 2ГИС",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35315624?query=python",
+      "responsibility": "",
+      "requirement": "Опыта разработки на Python. Знаний в области баз данных. Опыта работы с очередями (например, с rabbit mq). Понимания принципов CI..."
+    },
+    {
+      "title": "Python разработчик",
+      "company": " NPM",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35075027?query=python",
+      "responsibility": "...для IoT платформы (в перспективе высокие нагрузки). Работа и оптимизация данных в БД. Обучение, найм и формирование команды Python разработчиков.",
+      "requirement": "Опыт от 3-х лет. - Владение Python на высоком уровне. - Знание ООП и паттернов проектированияы. - Опыт написание и применения автотестов. - "
+    },
+    {
+      "title": "Тестировщик ПО",
+      "company": " Ростелеком - Центры обработки данных",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32356753?query=python",
+      "responsibility": "Выполнение задач по функциональному и интеграционному тестированию информационных систем или их компонентов. Составление и актуализация существующих тестовых сценариев. ",
+      "requirement": "Опыт работы с HTTP протоколом. Владение языком программирования (Java/Python/Ruby). Навыки работы в командной строке. Навыки тестирования мобильных приложений."
+    },
+    {
+      "title": "Программист Python",
+      "company": "ООО Тензор",
+      "salary": "75 000-120 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/33805797?query=python",
+      "responsibility": "Разработке продукта \"Мобильные сотрудники\" для автоматизации процессов управления выездными сотрудниками. Реализации системы лояльности для розничных клиентов. Разработке механизмов ценообразования и...",
+      "requirement": "Опыта разработки на указанных выше ЯП или любом диалекте SQL. Способности чувствовать «красоту кода». Опыта командной разработки. Профильного (ИТ/инженерного..."
+    },
+    {
+      "title": "Стажер – разработчик",
+      "company": "ООО Дата Ист",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34290624?query=python",
+      "responsibility": "",
+      "requirement": "Веб-разработка (ASP.NET Core, HTML/JS, React, VueJS, KnockoutJS). - Desktop (C#, WPF, COM). - Системное программирование (C++ 11/14/17, STL..."
+    },
+    {
+      "title": "ML/DS - developer (Python/C++)",
+      "company": " Кадровое агентство Алексея Сухорукова",
+      "salary": "от 150 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/32989068?query=python",
+      "responsibility": "Анализ семантики естественного языка с помощью word2vec/paragraph2vec, fasttext. Участие в Kaggle/Boosters.",
+      "requirement": "Классификация, кластеризация, морфологический и синтаксический анализ речи. Уверенное владение Python/C++. Опыт работы с Tensorflow, Keras, PyTorch. Будет плюсом: Опыт..."
+    },
+    {
+      "title": "Разработчик ПО C#(.Net)",
+      "company": "ООО Аланис Софтвер",
+      "salary": "от 100 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35198861?query=python",
+      "responsibility": "",
+      "requirement": "Ответственность, умение работать в команде, умение работать с чужим кодом. Будет преимуществом: Владение Python. Опыт разработки с использованием OpenCV. "
+    },
+    {
+      "title": "Преподаватель Scratch/JavaScript/Python",
+      "company": " IT школа Hello world",
+      "salary": "25 000-45 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35297595?query=python",
+      "responsibility": "",
+      "requirement": "...или Scratch и Python. Готовность осваивать новое и неведомое, стремление к развитию. Опыт в JavaScript или Python очень желателен. "
+    },
+    {
+      "title": "PHP-разработчик (Middle, Senior)",
+      "company": " Jump Taxi",
+      "salary": "100 000-180 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35280694?query=python",
+      "responsibility": "О команде и проекте.",
+      "requirement": ""
+    },
+    {
+      "title": "Machine Learning engineer",
+      "company": " Azoft",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32811996?query=python",
+      "responsibility": "Тренируем нейронные сети на видеокарте. Сервер распознавания текста на изображении. Закрытую парковка: для автомобилей, велосипедов, самокатов, гироскутеров :).",
+      "requirement": "Опытом в Python, в частности NumPy, OpenCV, Scikit-learn, Pandas. Знанием SVM, PCA, kNN, Decision Trees, Ensembles (Bagging, Boosting, Random..."
+    },
+    {
+      "title": "Backend разработчик Python (Django/Flask) Middle/Senior",
+      "company": "ООО Тревел Код Инноваций",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35119977?query=python",
+      "responsibility": "Разработка сложного web-сервиса и системы автоматизации в крупной компании, в качестве back-end разработчика.",
+      "requirement": "Опыт применения в работе классических алгоритмов. Знание структур данных. Отличное знание Python 3.6 и базовых фреймворков. Опыт многопоточного программирования. "
+    },
+    {
+      "title": "Junior C++ разработчик алгоритмов геометрического моделирования",
+      "company": "ЗАО Ледас",
+      "salary": "35 000-65 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35085148?query=python",
+      "responsibility": "Программист на языке C++ для разработки и реализации алгоритмов вычислительной геометрии моделирования 3D тел в машиностроении и архитектуре и...",
+      "requirement": "В качестве кандидатов мы готовы рассмотреть студентов без опыта работы в промышленной разработке ПО, имеющих хорошую математическую подготовку и уверенное..."
+    },
+    {
+      "title": "Senior Machine learning developer (C++)",
+      "company": "ООО Тензор",
+      "salary": "160 000-245 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/33942978?query=python",
+      "responsibility": "",
+      "requirement": "Экспертные знания C++ или Python. Опыт промышленного использования Machine Learning и Deep Learning. Опыт и желание руководить группой таких же..."
+    },
+    {
+      "title": "Senior / Lead Python Developer (Cyprus)",
+      "company": " IBIT",
+      "salary": "от 3 500 EUR",
+      "href": "https://vladivostok.hh.ru/vacancy/35220236?query=python",
+      "responsibility": "",
+      "requirement": "Необходимый опыт: Отличное знание Python 3, Django, Aiohttp, WebSocket. Опыт работы с Node.js. Postgres, Mysql, Redis, Elastic. Понимание особенностей работы..."
+    },
+    {
+      "title": "Программист Python",
+      "company": " Positive Technologies",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35109958?query=python",
+      "responsibility": "разработкой новой функциональности программных продуктов. ∙ проектированием API компонентов системы. ∙ проектированием модулей и библиотек программных продуктов. ∙ рефакторингом и написанием тестов. ∙ ",
+      "requirement": "знакомство с основными шаблонами проектирования. ∙ опыт разработки на Python не менее 3 лет. ∙ опыт работы с Flask или Django или..."
+    },
+    {
+      "title": "Junior python developer",
+      "company": " БАРС Груп",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35085826?query=python",
+      "responsibility": "Мы используем в разработке: Тестирование: unittest, behave, selenium, etc. ОС и IDE на выбор разработчика.",
+      "requirement": "Мы хотим от кандидата: Опыт работы на Python и в Django;. Опыт работы с реляционными СУБД: PostgreSQL, Oracle, MySQL. "
+    },
+    {
+      "title": "Python разработчик",
+      "company": " Брокеркредитсервис",
+      "salary": "до 120 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35022756?query=python",
+      "responsibility": "Разработка на Python в JetBrains PyCharm. Построение веб-сервисов на Python. Покрытие кода юнит тестами. Разработка ETL-процессов.",
+      "requirement": "Знание Python. Знакомство с SQL, опыт работы с базами данных. Знакомство с системами контроля версий GIT, Mercurial. Понимание методологий разработки..."
+    },
+    {
+      "title": "Разработчик на Python (Senior), Москва",
+      "company": " DriverPack Solution",
+      "salary": "до 300 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35080652?query=python",
+      "responsibility": "",
+      "requirement": "1. Мы честны друг с другом."
+    },
+    {
+      "title": "Middle python developer",
+      "company": " БАРС Груп",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35125239?query=python",
+      "responsibility": "Мы используем в разработке: Тестирование: unittest, behave, selenium, etc. ОС и IDE на выбор разработчика.",
+      "requirement": "Мы хотим от кандидата: Опыт работы на Python и в Django;. Опыт работы с реляционными СУБД: PostgreSQL, Oracle, MySQL. "
+    },
+    {
+      "title": "Middle Python Developer",
+      "company": " DataArt",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34907970?query=python",
+      "responsibility": "Обучение английскому языку: курсы, общение с коллегами и клиентами из разных стран. - Поддержка докладчиков, выступающих на конференциях и встречах технологических...",
+      "requirement": "Опыт программирования на Python не менее 2-х лет. Опыт коммерческой разработки. Базовое знание SQL. Базовое знание JavaScript, Bootstrap. "
+    },
+    {
+      "title": "Backend-разработчик на Python",
+      "company": " LeadBazaar",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35015005?query=python",
+      "responsibility": "Участвовать в принятии всех технических решений на проекте. Проектировать архитектуру и разрабатывать компоненты веб-приложения.",
+      "requirement": "Высшее профильное образование (IT, физ-мат). Опыт работы программистом от 3 лет (чем интереснее опыт - тем лучше). Понимание алгоритмов и..."
+    },
+    {
+      "title": "Python developer",
+      "company": " БАРС Груп",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/29777304?query=python",
+      "responsibility": "Более 70 инсталляций в разных регионах России, развернутых более чем на 200 серверах. Мы используем в разработке: Тестирование: unittest, behave...",
+      "requirement": "РАССМАТРИВАЕМ КАНДИДАТОВ РАЗНЫХ УРОВНЕЙ. Опыт коммерческой разработки на Python. Навыки оптимальной работы с реляционными СУБД. Знание JavaScript (приветствуется опыт в..."
+    },
+    {
+      "title": "Backend-разработчик",
+      "company": "ООО Новосибирский Научно-Технический Центр (ННТЦ)",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35146479?query=python",
+      "responsibility": "Мы расширяем свою команду для создания современных веб-приложений. В их основе находится мощный backend-слой, обеспечивающий работу с большими...",
+      "requirement": "Умение работать в команде и желание строить эффективную команду. Знание Python будет плюсом. Плюсом будет умение/желание развиваться в смежных..."
+    },
+    {
+      "title": "Data Base Administrator (SQL)",
+      "company": " One Inc. Russia",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35186170?query=python",
+      "responsibility": "Минимум бюрократии, плоская структура. Быстро адаптируемся под текущие реалии, пробуем новое. Зрелые процессы, практикуем Agile. Надежный процесс код ревью. ",
+      "requirement": "MS SSIS ETL packages development. Shell scripting – PowerShell, Perl, Python. Windows/Linux – administering. Git. Monitoring systems – Nagios, Icinga – setup, administering. "
+    },
+    {
+      "title": "Senior QA engineer / QA lead",
+      "company": " i'way",
+      "salary": "от 60 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35186229?query=python",
+      "responsibility": "Тестирование продуктов компании: веб-сайты и сервисы (API, UI), мобильные приложения (Android, iOS). Улучшение и оптимизация процессов отдела: составление тестовой...",
+      "requirement": "Владение SQL и любого современного языка программирования (желательно любой из следующих: JS, Python, Java, PHP, Go). Имеешь опыт нагрузочного тестирования. "
+    },
+    {
+      "title": "Аналитик ML (машинное обучение)",
+      "company": " Отличные наличные",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34972066?query=python",
+      "responsibility": "Разработка алгоритмов анализа клиентских данных, профилирование клиентов, оценка платежеспособности и рисков, оптимизация структуры портфеля. Аналитика данных, поиск зависимостей, тестирование гипотез...",
+      "requirement": "Умение решать оптимизационные, эконометрические задачи, глубокое понимание теории вероятности, математической статистики, алгоритмики ML. Знание Python/R, SQL. Наличие реализованных проектов..."
+    },
+    {
+      "title": "QA Lead Engineer (Gamedev)",
+      "company": "ООО Фростгейт",
+      "salary": "70 000-120 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35105739?query=python",
+      "responsibility": "",
+      "requirement": "Большим плюсом будет знакомство с любым фреймворком для UI автоматизации игр (Poco, Airtest или AltUnityTester). Знание C# или Python на..."
+    },
+    {
+      "title": "Разработчик систем компьютерного зрения (Computer vision engineer)",
+      "company": " Revotail",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35166050?query=python",
+      "responsibility": "Разработка программно-аппратных систем для отслеживания людей на ограниченной площади. Имплементация и доработка CV моделей для распознавания поведения людей.",
+      "requirement": "Знания базы Deep Learning и Computer Vision. Уверенные знания python3 и библиотек numpy, pandas, opencv, scipy. Опыт работы с..."
+    },
+    {
+      "title": "Senior Embedded Linux Engineer",
+      "company": " OMG Electronics Litited",
+      "salary": "90 000-180 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35271981?query=python",
+      "responsibility": "Компания ОМГ Электроникс (Китай) занимается разработкой устройств в сфере потребительской электроники. Компания разрабатывает системы видеонаблюдения, игровые консоли и другие продукты.",
+      "requirement": "Знание скриптовых языков, таких как Python, Perl, Bash, Tcl и т.п. -Опыт постановки задач и руководства группой специалистов. -"
+    },
+    {
+      "title": "Data Engineer",
+      "company": " Akvelon",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35243531?query=python",
+      "responsibility": "Проектировать, разрабатывать и поддерживать etl pipelines. Создавать инфраструктуру для аналитиков. Улучшать и развивать продукт.",
+      "requirement": "От 3 лет опыта в области data engineering. Опыт разработки на Python, Java. Опыт с etl pipeline, data warehouse. "
+    },
+    {
+      "title": "Data Engineer (Python Developer)",
+      "company": " Зарплата.ру",
+      "salary": "до 120 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34494668?query=python",
+      "responsibility": "Clickhouse - для работы с аналитикой.",
+      "requirement": "Имеешь опыт работы с текстовыми данными TF-IDF, Word2vec. PHP 7, Python 3. Системы хранения данных — MySQL, MongoDB."
+    },
+    {
+      "title": "Lead Data Engineer (Python Developer)",
+      "company": " Зарплата.ру",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32483517?query=python",
+      "responsibility": "Clickhouse - для работы с аналитикой.",
+      "requirement": "Имеешь опыт работы с текстовыми данными TF-IDF, Word2vec. PHP 7, Python 3. Системы хранения данных — MySQL, MongoDB."
+    },
+    {
+      "title": "Backend (SQL) Разработчик (Академгородок)",
+      "company": " Группа компаний ЦРМ",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34096284?query=python",
+      "responsibility": "Развитие и поддержка поисковика по базе данных. Разработка и внедрение новых алгоритмов интеллектуального поиска. Мониторинг состояния сервиса. Техническая поддержка пользователей. ",
+      "requirement": "Опыт работы со Sphinx. Опыт работы с ReactJS. Опыт работы с GIT. Опыт работы с Python – Flask. Опыт работы с..."
+    },
+    {
+      "title": "Senior backend разработчик / Team Lead разработки платформы DMP (Big Data)",
+      "company": " Билайн",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35127155?query=python",
+      "responsibility": "Развитие платформы по работе с большими данными DMP (Data Management Platform). Задачи: Выбор технологий для реализации сервисов. Проектирование высоконагруженных сервисов. ",
+      "requirement": "Опыт работы с очередями сообщений (Kafka, ZeroMQ, Rabbit). Желательно знакомство со Scala, Python. Опыт планирования командной работы (постановка задач, планирование..."
+    },
+    {
+      "title": "Data scientist",
+      "company": " AD.RU",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35186665?query=python",
+      "responsibility": "Разработка комплексных аналитических моделей на основе методов машинного обучения. Разработка предиктивных моделей поведения клиентов и пользователей систем. Проведение аналитических исследований...",
+      "requirement": "Опыт построения аналитических моделей на R и/или Python. Умение работать с реляционными и NoSQL БД. Опыт работы со структурированными..."
+    },
+    {
+      "title": "Fullstack-разработчик",
+      "company": "ООО Новосибирский Научно-Технический Центр (ННТЦ)",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35146480?query=python",
+      "responsibility": "Мы расширяем свою команду для создания современных веб-приложений. В их основе находится мощный backend-слой, обеспечивающий работу с большими...",
+      "requirement": "Умение работать в команде и желание строить эффективную команду. Знание Python будет плюсом. Плюсом будет умение/желание развиваться в смежных..."
+    },
+    {
+      "title": "Руководитель отдела разработки (Team Lead)",
+      "company": " СТАРТЕКС",
+      "salary": "до 180 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35312392?query=python",
+      "responsibility": "Мы – крупнейшая торговая площадка тканей, текстиля и товаров для рукоделия в России. Основной вектор развития – создание, развитие и продвижение e...",
+      "requirement": "Опыт разработки на Python от 3-х лет на уровне middle или выше. — Опыт выполнения задач архитектора, технического лидера или..."
+    },
+    {
+      "title": "Data Scientist (Санкт-Петербург)",
+      "company": " ЦРТ | Группа компаний",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/22856468?query=python",
+      "responsibility": "Разработка алгоритмов распознавания речи/ эмоций/ синтеза речи/ биометрии (машинное обучение, работа с графами). Создание и сопровождение программных компонентов. ",
+      "requirement": "Знание и опыт в Machine Learning, Deep Learning. Знания и опыт программирования на Python, C++. Высокий уровень английского языка, позволяющий..."
+    },
+    {
+      "title": "Заместитель руководителя разработки/senior python developer",
+      "company": " Ростелеком - Центры обработки данных",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35384187?query=python",
+      "responsibility": "Контроль за процессом разработки. Декомпозиция задач, проведение ревью кода. Участие в разработке, самостоятельное написание кода. Принятие архитектурных решений вместе с...",
+      "requirement": "Популярные паттерны программирования, в том числе специфичные для python и его экосистемы. Основные методы и принципы управления командой. "
+    },
+    {
+      "title": "Бэкенд-разработчик",
+      "company": " FunBox",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33632677?query=python",
+      "responsibility": "Вам предстоит участвовать в разработке сложных (web- и не только) сервисов с объемным бэкендом в профессиональной команде.",
+      "requirement": "Что нужно уметь: Хорошо знать один из веб-ориентированных языков: Ruby, Python, Perl, PHP, ASP. Уметь работать c Git. "
+    },
+    {
+      "title": "QA-инженер / Специалист по тестированию ПО (Backend)",
+      "company": " 2ГИС",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34115237?query=python",
+      "responsibility": "Анализ требований и составление тест-кейсов. Автоматизация тестирования: написание функциональных и интеграционных тестов. Активное участие в проработке архитектуры сервисов и...",
+      "requirement": "Навыки программирования на любом высокоуровневом языке (предпочтительно Python). Знакомство с Linux и Bash. Желание развиваться профессионально и изучать новые технологии."
+    },
+    {
+      "title": "C++ разработчик алгоритмов геометрического моделирования",
+      "company": "ЗАО Ледас",
+      "salary": "65 000-110 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35148586?query=python",
+      "responsibility": "Проект даст возможность узнать изнутри устройство математики CAD приложений. В разрабатываемом функционале будет необходимо сочетать высокое качество, отличную производительность, разумное...",
+      "requirement": "Высшее математическое или инженерное образование. Знание C/C++. Понимание и применение принципов ООП, паттернов проектирования. Хорошее знание и понимание математики..."
+    },
+    {
+      "title": "Junior Software Engineer",
+      "company": "ООО Даша.АИ",
+      "salary": "от 25 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/31569245?query=python",
+      "responsibility": "Создание и редактирование моделей диалогов. Интеграция готовых моделей диалогов в систему. Написание мини-библиотек для моделей диалогов. Участие в разработке...",
+      "requirement": "Владение любым из основных современных языков программирования в объеме университетского курса: C/C++, C#, Python, JavaScript. Знание алгоритмов и структур..."
+    },
+    {
+      "title": "QA Engineer",
+      "company": "ООО Даша.АИ",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35370241?query=python",
+      "responsibility": "Создание автоматических тестов для Консоли управления. Создание нагрузочных тестов для BackEnd API. Ручное тестирование Консоли Управления и API.",
+      "requirement": "Опыт работы с: Selenium, Apache JMeter или аналогами (от 3х лет). Владение языками программирования: JavaScript/Python. Внимательность. "
+    },
+    {
+      "title": "Data Scientist (г.Краснодар)",
+      "company": " МАГНИТ, Розничная сеть",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35049718?query=python",
+      "responsibility": "Разработка статистических моделей/алгоритмов и их реализация на R, Python. Оптимизация инструментов и подходов к решению задач. Курирование развития младших...",
+      "requirement": "Лояльность. Навыки работы с современными аналитическими пакетами на R/Python. Умение работать со стеком технологий BigData (Hadoop, Spark, Hive). "
+    },
+    {
+      "title": "Frontend JS Разработчик",
+      "company": "ООО Нэти",
+      "salary": "от 60 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35381351?query=python",
+      "responsibility": "Разрабатывать фронт-энд на различных проектах. Рефакторинг и оптимизация существующего кода. Разработка нового функционала. Взаимодействие с коллегами, проектирование, обсуждение задач...",
+      "requirement": "Опыт разработки проектов на React.js. Понимание компонентного подхода в разработке веб-интерфейсов. Владение адаптивной и кроссбраузерной версткой. Умение работать с..."
+    },
+    {
+      "title": "QA-инженер / Специалист по тестированию ПО (сервис поиска)",
+      "company": " 2ГИС",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34935042?query=python",
+      "responsibility": "Разработка и поддержка CI/CD процессов в команде. Выпуск релизов. Знаком с языками программирования (PHP, Python). Знаком системой контроля версий...",
+      "requirement": "Мы готовы рассматривать кандидатов с разным опытом в тестировании. Главное, чтобы ты ориентировался в видах и уровнях тестирования, умел применять..."
+    },
+    {
+      "title": "Преподаватель курсов анализа данных",
+      "company": " Softline",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35277668?query=python",
+      "responsibility": "",
+      "requirement": "Знание Excel, Python\\R. Знание основ баз данных, SQL. Знание основ операционных систем Windows, Linux. Дополнительно приветствуются: Опыт работы в..."
+    },
+    {
+      "title": "Системный, kernel программист Linux",
+      "company": " UserGate",
+      "salary": "80 000-150 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34450861?query=python",
+      "responsibility": "Разработка системного и прикладного ПО для систем в области информационной безопасности. Исследование и выбор технологий, отладка и поддержка существующего кода. ",
+      "requirement": "Навыки программирования на скриптовых языках (Python, perl, bash и т.п.). Английский язык: чтение технической документации. Опыт модификации ядра Linux. "
+    },
+    {
+      "title": "Руководитель отдела по работе с проблемными активами",
+      "company": " РобоФинанс",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33912833?query=python",
+      "responsibility": "Понимаешь процессы разработки IT-решений для бизнес-задач. Создание единой базы данных для отдела по работе с проблемными активами (8...",
+      "requirement": "Имеешь опыт работы более 3 лет в области проблемных активов. Обладаешь знаниями английского языка не ниже Intermediate. Имеешь аналитический склад..."
+    },
+    {
+      "title": "Разработчик/Программист C++ (С++ developer)",
+      "company": " Форвард",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/29334456?query=python",
+      "responsibility": "Разработка программных симуляторов для тренажеров управления техникой, а также для домашнего использования. Решение широкого спектра нестандартных задач в сфере симуляции...",
+      "requirement": "Опыт работы с библиотекой Boost, со скриптовыми языками Lua, Python. Опыт работы с .NET и C#, с SQL и БД. "
+    },
+    {
+      "title": "Ведущий эксперт управления разработкой / Team Lead (NSK)",
+      "company": " Билайн",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35366999?query=python",
+      "responsibility": "Перенос большой микросервисной системы во внутреннюю разработку без остановки эксплуатации. Глубокое погружение в работающую систему с многолетней историей. ",
+      "requirement": "Желателен опыт работы NO-SQL хранилищами(Hbase, Redis, Ignite). Желательно знакомство со Scala, Python. Желательно знакомство со средствами логирования, мониторинга..."
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": " Plesk",
+      "salary": "90 000-180 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/30802185?query=python",
+      "responsibility": "Обеспечивать необходимый уровень надежности сервисов. Предоставление рекомендаций к архитектуре сервисов. Обеспечение масштабируемости и высокодоступности сервисов. Мониторинг и автоматизация всех процессов...",
+      "requirement": "Способны настроить мониторинг для сервиса и понимаете полученные графики, можете делать выводы на их основе. Умеете программировать (python, bash, go). "
+    },
+    {
+      "title": "Junior TypeScript/JavaScript разработчик системы 3D моделирования",
+      "company": "ЗАО Ледас",
+      "salary": "35 000-65 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35023196?query=python",
+      "responsibility": "Серверная часть приложения разрабатывается на С++ с использованием библиотек для геометрического моделирования, клиентская часть на TypeScript/JavaScript+WebGL+three.js.",
+      "requirement": "Знание следующих вспомогательных и/или используемых в других наших проектах технологий: С++ / C# / Python. MS Visual Studio / GCC / CMake. "
+    },
+    {
+      "title": "Lead DevOps Engineer",
+      "company": " Зарплата.ру",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35200496?query=python",
+      "responsibility": "Поддерживать и развивать дев и продакшн-кластеры контейнеров (мы используем LXC, ZFS и ArchLinux в качестве основного стека). ",
+      "requirement": "Есть опыт разработки на любом из языков программирования (C/C++, Java, PHP, Ruby, Python, Go, etc.). Опыт эксплуатации/настройки любых..."
+    },
+    {
+      "title": "Разработчик баз данных",
+      "company": "ЗАО Группа компаний С7",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32907656?query=python",
+      "responsibility": "Проектирование и разработка ETL процессов. Написание скриптов на SQL, Python, оптимизация запросов. Мы активно работаем над внедрением авто тестов и...",
+      "requirement": "Плюсом будет опыт работы с PostgreSQL, Informatica, любой mpp СУБД, опыт программирования на Python. В сотрудниках мы в первую очередь..."
+    },
+    {
+      "title": "Ведущий специалист по тестированию (Web QA)",
+      "company": " Movavi",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32740530?query=python",
+      "responsibility": "Улучшение и оптимизация процессов отдела: составление тест-планов, внедрение стандартов по написанию автотестов, составление регламентов. Написание автотестов на текущий функционал. ",
+      "requirement": "Знание теоретических основ тестирования. Базовые знания по web-технологиям (что такое HTML, как происходит взаимодействие между браузером и сервером). "
+    },
+    {
+      "title": "Senior Data Scientist (Академгородок)",
+      "company": "ООО ЭЛСИ ГРУПП",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/29701878?query=python",
+      "responsibility": "Распознавание образов в видеопотоке. Улучшение и разработка систем кредитного скоринга. Развитие текстовых и голосовых диалоговых систем. Моделирование поведения клиентов для...",
+      "requirement": "Наличие готовых проектов, успешно запущенных в продакшн. Опыт работы с Python, готовность писать продакшн-код. Опыт участия в конкурсах по..."
+    },
+    {
+      "title": "Data Scientist (Академгородок)",
+      "company": "ООО ЭЛСИ ГРУПП",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/31150346?query=python",
+      "responsibility": "Системы кредитного скоринга для различных стран. Чат-боты (текстовые, голосовые). Моделирование поведения клиентов для решения задач маркетинга. Анализ изображений (распознавание...",
+      "requirement": "Понимание принципов постановки экспериментов, проверки гипотез. Опыт работы с Python, библиотеками scikit-learn, numpy, scipy, pandas. Опыт использования и понимание..."
+    },
+    {
+      "title": "Data Scientist (специалист по анализу данных)",
+      "company": "ООО Shortest Track",
+      "salary": "30 000-120 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35339882?query=python",
+      "responsibility": "Генерация гипотез, постановка экспериментов совместно с удаленной командой Data Scientists. Разработка, доставка и поддержка прикладных решений машинного обучения. ",
+      "requirement": "Опыт работы в Linux и Docker. Опыт работы с Python frameworks: Django, Flask, Asynchronous I/O. Знание R. "
+    },
+    {
+      "title": "TypeScript/JavaScript разработчик системы 3D моделирования",
+      "company": "ЗАО Ледас",
+      "salary": "50 000-110 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35085143?query=python",
+      "responsibility": "Серверная часть приложения разрабатывается на С++ с использованием библиотек для геометрического моделирования, клиентская часть на TypeScript/JavaScript+WebGL+three.js.",
+      "requirement": "Знание следующих вспомогательных и/или используемых в других наших проектах технологий: С++ / C# / Python. MS Visual Studio / GCC / CMake. "
+    },
+    {
+      "title": "Разработчик виртуальной сети в Яндекс.Облако",
+      "company": " Яндекс",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34919169?query=python",
+      "responsibility": "",
+      "requirement": "Опыт работы с open source будет плюсом, а опыт работы с сетевой подсистемой ядра Linux, DPDK, VPP и хорошее представление..."
+    },
+    {
+      "title": "Team Lead Web QA",
+      "company": " Movavi",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32657688?query=python",
+      "responsibility": "Улучшение и оптимизация процессов отдела: составление тест-планов, внедрение стандартов по написанию автотестов, составление регламентов. Написание автотестов на текущий функционал. ",
+      "requirement": "Знание теоретических основ тестирования. Базовые знания по web-технологиям (что такое HTML, как происходит взаимодействие между браузером и сервером). "
+    },
+    {
+      "title": "Senior PHP Developer",
+      "company": "ООО Креатик Софт",
+      "salary": "110 000-150 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/33639905?query=python",
+      "responsibility": "Реализация новой функциональности. Поддержка работоспособности системы. Участие в обсуждении новой функциональности и технологий и принятии решений. Оптимизация производительности.",
+      "requirement": "Также плюсом будет: Опыт работы с Angular 2+. Знание Go / Python. Знание XSS, CSS/SQL/PHP injection, CSRF. "
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": " Movavi",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33194487?query=python",
+      "responsibility": "Проектирование и настройка систем автоматизации разворачивания окружений, доставки изменений и их тестирования. Проектирование, настройка и обслуживание веб-серверов, настройка на...",
+      "requirement": "Опыт написание деплоев Gitlab CI/CD. Опыт настройки систем мониторинга Zabbix, Prometheus. Знание и умение применять скриптовые языки, например, Python."
+    },
+    {
+      "title": "Senior PHP Developer",
+      "company": " Plesk",
+      "salary": "90 000-150 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34935221?query=python",
+      "responsibility": "Разработка нового функционала. Поддержка существующего функционала. Разработка автоматизированных тестов для продукта. Исправление ошибок.",
+      "requirement": "Диплом бакалавра или инженера техники и технологии. Не менее 4-х опыта работы в сфере веб-разработки и/или смежных..."
+    },
+    {
+      "title": "Senior JavaScript Developer",
+      "company": " Plesk",
+      "salary": "90 000-150 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34935440?query=python",
+      "responsibility": "Разработка нового функционала. Поддержка существующего функционала. Разработка автоматизированных тестов для продукта. Исправление ошибок.",
+      "requirement": "Диплом бакалавра или инженера техники и технологии. Не менее 4-х лет опыта работы в сфере веб-разработки и/или..."
+    },
+    {
+      "title": "QA Automation Engineer",
+      "company": " Центр финансовых технологий",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35348752?query=python",
+      "responsibility": "Тестирование функциональности: Выполнение ручного и автоматического тестирования. Формирование документов для тестирования. Внедрение новых инструментов и подходов к тестированию. ",
+      "requirement": "Хороший уровень знаний Java, Python, etc для написания автотестов. Владение инструментами - JUnit или TestNG. Умение работать с системами контроля версий..."
+    },
+    {
+      "title": "Android-разработчик в Браузер",
+      "company": " Яндекс",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/31492833?query=python",
+      "responsibility": "Поездки на специализированные конференции в качестве как слушателей, так и докладчиков.",
+      "requirement": "Опыт разработки на Kotlin, C/C++, JavaScript, Python и платформах Windows, Linux, Mac. Понимание, что такое современный веб и как..."
+    },
+    {
+      "title": "Data Scientist (голосовые технологии)",
+      "company": " Тинькофф",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32348833?query=python",
+      "responsibility": "Развивать архитектуру и алгоритмы обработки для акустической и языковой моделей распознавания речи. Ресерчить алгоритмы, которые помогут улучшить качество распознавания в...",
+      "requirement": "Практический опыт работы Data Scientist'ом не менее 2-х лет. Уверенные знания Python. Понимание базовых структур данных и алгоритмов..."
+    },
+    {
+      "title": "Product manager",
+      "company": " Drom",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35364548?query=python",
+      "responsibility": "Заниматься выработкой общей идеологии и видения продукта. Вырабатывать стратегию для достижения этого видения. Поддерживать жизненный цикла продукта. Вырабатывать KPI продукта. ",
+      "requirement": "Образование высшее (желательно высшее техническое в области информационных технологий). Аналитический склад ума, системность и организованность. Умение работать с информацией (сбор..."
+    },
+    {
+      "title": "Разработчик в группу распределённой сборки",
+      "company": " Яндекс",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34817505?query=python",
+      "responsibility": "Решать интересные алгоритмические и прикладные задачи. Участвовать в проектировании наших систем. Взаимодействовать со смежными командами и с пользователями.",
+      "requirement": "Знание C++. Понимание принципов сборки программ из исходного кода. Опыт разработки распределённых и высоконагруженных систем."
+    },
+    {
+      "title": "Java-разработчик в Яндекс.Маркет",
+      "company": " Яндекс",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32814681?query=python",
+      "responsibility": "Поездки на специализированные конференции в качестве как слушателей, так и докладчиков.",
+      "requirement": "...под Unix или Linux. Опыт использования непрерывной интеграции (CI) и непрерывной доставки (CD). Знание базовых принципов организации сетей. Знание Python."
+    },
+    {
+      "title": "Ведущий DevOps-инженер",
+      "company": " Брокеркредитсервис",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34921553?query=python",
+      "responsibility": "Внедрение, доработка и сопровождение продуктов проекта. Задачи DevOps. Организация процессов Ci/Cd. Сопровождение и конфигурация вспомогательного ПО: RabbitMQ, NGINX, Kafka.",
+      "requirement": "PostgreSQL, MySQL, GitLab, vault, Jenkins, Jfrog. Опыт написания скриптов bash, perl, python. Опыт работы с kafka/rabbitmq. Опыт написания запросов..."
+    },
+    {
+      "title": "Программист C#",
+      "company": "ООО Дата Ист",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33939924?query=python",
+      "responsibility": "Разрабатывать модули/плагины к ArcGIS Desktop на С# .NET с использованием WPF.",
+      "requirement": "Опыт работы с СУБД. Умение работать с системой контроля версий (GIT, TFS и пр.). Знание Python. Знакомство с гибкими методологиями..."
+    },
+    {
+      "title": "Веб-программист",
+      "company": "ООО Национальная почтовая служба",
+      "salary": "до 60 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35320343?query=python",
+      "responsibility": "Разработка (доработка) ПО \"Личный кабинет клиента\". Разработка (доработка) сервиса \"Личный кабинет адресата\", сервиса платежей штрафов. Разработка (доработка) сервиса \"Мобильный курьер\".",
+      "requirement": "Python(Djago), PostgreSQL, HTML+CSS(1-3)+Javascript+XML+JSON+AJAX. Уверенные навыки в кроссбраузерной семантической вёрстке, отвечающей старым и новым стандартам. BootStrap. "
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": " Xored",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/30725695?query=python",
+      "responsibility": "For a network telemetry analytics project we're looking for a smart and highly motivated engineer. The project comprises acquisition...",
+      "requirement": "Netconf/YANG; Understanding of Cisco devices is a plus. C/C++, Python, Bash, R, JS/Typescript, Go. Willing to work..."
+    },
+    {
+      "title": "C# разработчик приложения для автоматизации обработки деталей на лазерных станках",
+      "company": "ЗАО Ледас",
+      "salary": "65 000-110 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35085136?query=python",
+      "responsibility": "Программист на языке C# в команду, разрабатывающую приложение, помогающее выполнять обработку деталей на лазерных станках. В приложении реализуются алгоритмы для...",
+      "requirement": "Вычислительные алгоритмы: C#/C++. Высшее техническое образование или обучение на последних курсах. Знание C#. Понимание и применение принципов ООП. "
+    },
+    {
+      "title": "Backend-разработчик под Linux",
+      "company": " 2ГИС",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33744064?query=python",
+      "responsibility": "Разрабатывать, поддерживать и развивать эти бэкенды. Обеспечивать удобный деплоймент и тестируемость разработанных решений.",
+      "requirement": "Отличные знания и опыт программирования на статически типизированном языке, таком как С++, Scala или Go. Знание Python, плюсом будет опыт..."
+    },
+    {
+      "title": "DevOps инженер",
+      "company": "ООО Shortest Track",
+      "salary": "100 000-140 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35339962?query=python",
+      "responsibility": "Участие в разработке инструментов поддержки жизненного цикла приложений. Доставка и поддержка разрабатываемых программных решений. Разработка, доставка и поддержка прикладных решений...",
+      "requirement": "Понимание принципов работы приложений с микросервисной архитектурой. Опыт написания кода на Python или других языках. Опыт создания и развёртываия Helm..."
+    },
+    {
+      "title": "DevOps инженер / ФинТех",
+      "company": " Центр финансовых технологий",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35127906?query=python",
+      "responsibility": "Поддержка работы IT-инфраструктуры, сервисов и ПО, CI/CD. Мониторинг работоспособности сервиса, устранение проблем и дефектов в работе системы. ",
+      "requirement": "Опыт работы с Docker, Kubernetes, понимание принципов виртуализации, контейнеризации. Знание bash, python для автоматизации администрирования. Опыт работы с системами сборки..."
+    },
+    {
+      "title": "Linux backend developer",
+      "company": " Plesk",
+      "salary": "90 000-150 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34477657?query=python",
+      "responsibility": "Написание и модификация существующего кода на C/C++/Python/Bash по интеграции Linux-сервисами. Сборка, и выпуск продукта в виде...",
+      "requirement": "2+ года разработки системного ПО под Linux на C/C++ (STL, Boost), python. Базовые навыки администрирования и средств разработки..."
+    },
+    {
+      "title": "Инженер DevOps",
+      "company": " N1.RU",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34270442?query=python",
+      "responsibility": "Делаем повторяемыми процессы разработки localdev -> stage -> production. Развиваем нашу систему мониторинга. Пишем подручные инструменты на bash / Python / Go. ",
+      "requirement": "Понимание принципов построения сетей. Понимание принципов непрерывной поставки приложений. Понимание принципов построения отказоустойчивой инфраструктуры. Умение диагностировать проблемы. Использование подхода Infrastructure..."
+    },
+    {
+      "title": "Tech lead Backend",
+      "company": "ООО АйТи Мегастар",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33995082?query=python",
+      "responsibility": "Разработка backend части приложений с нуля и доработка существующих. Архитектура баз данных. Деплой приложений на тестовый и боевой сервер. ",
+      "requirement": "Опыт разработки backend от 2 лет. Уверенное знание Python или PHP. Опыт использования REST API. Опыт работы с любой из..."
+    },
+    {
+      "title": "Разработчик Oracle PL SQL / Python",
+      "company": "ПАО Ростелеком",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35335088?query=python",
+      "responsibility": "Проектировать базы данных и оптимизировать программные модули. Разрабатывать программные модули в Oracle PL/SQL. Разрабатывать Python модули для реализации ETL...",
+      "requirement": "Понимание принципов проектирования БД. Понимание принципов построения DWH. Знание Python для разработки взаимодействия с базами данных. Опыт разработки ETL-процессов. "
+    },
+    {
+      "title": "Software Engineer (java)",
+      "company": " Xored",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/26662707?query=python",
+      "responsibility": "Управления лабораториями и дата-центрами с тысячами устройств. Эффективное использование ресурсов. Обеспечение отсутствия конфликтов одновременного доступа к оборудованию. ",
+      "requirement": "Знание классических алгоритмов и структур данных. Уверенное знание Java Core. Опыт коммерческой разработки на Java. Знание английского на уровне Intermediate..."
+    },
+    {
+      "title": "Аналитик BI",
+      "company": " N1.RU",
+      "salary": "от 80 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35063669?query=python",
+      "responsibility": "Мы ищем опытных аналитиков, которые в составе кросс-функциональных продуктовых команд будут определять целевые метрики для достижения стратегических целей компании...",
+      "requirement": "Имеете опыт планирования экспериментов. Имеете опыт анализа данных с помощью Python. Имеете опыт решения задач с помощью ML. "
+    },
+    {
+      "title": "Python разработчик в SOC",
+      "company": "ОАО ИнфоТеКС",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35310508?query=python",
+      "responsibility": "Разработка компонент для средства сбора и анализа логов. Интеграция разработанных средств сбора с существующими системами. Проведение code review разработанных продуктов. ",
+      "requirement": "Базовые, но уверенные знания Python, Django. Опыт разработки приложений с БД (PostgreSQl, MongoDB, MSSQL). Умение составлять и оптимизировать запросы к..."
+    },
+    {
+      "title": "Security engineer",
+      "company": " Plesk",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34902180?query=python",
+      "responsibility": "Отслеживание и анализ уязвимостей в используемых библиотеках и внешних компонентах. Анализ рисков и моделирование угроз. Анализ кода и внешнее тестирование...",
+      "requirement": "Опыт разработки на любом языке программирования, умение разобраться в чужом коде (PHP, Go, Javascript, Python, Bash). Понимание TCP/IP и..."
+    },
+    {
+      "title": "Ведущий системный аналитик",
+      "company": " Integral",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34401288?query=python",
+      "responsibility": "Собирать, определять и уточнять бизнес-цели. Проводить системный анализ на основе бизнес-требований. Переводить бизнес-требования в технические спецификации. ",
+      "requirement": "Понимание и способность идентифицировать потребности клиентов. Опыт создания технических требований. Английский язык на уровне В1 и выше. "
+    },
+    {
+      "title": "Team Leader (со стеком Java)",
+      "company": " Plesk",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35105357?query=python",
+      "responsibility": "Беcсбойную эксплуатацию системы 24/7. Организацию развития и модификации системы под новые требования, создание новых подсистем и рефакторинг старых, принятие...",
+      "requirement": ""
+    },
+    {
+      "title": "DevOps engineer",
+      "company": " Bacup IT",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34914307?query=python",
+      "responsibility": "Обеспечение бесперебойной работы сервисов. Автоматизация задач администрирования. Взаимодействие с разработчиками, системными администраторами, менеджерами, координация команд по смежным областям. ",
+      "requirement": "Знание одного из скриптовых языков (Bash, Python и т.п.). Знание языка SQL. Опыт настройки CI и CD систем Gitlab. "
+    },
+    {
+      "title": "Инженер центра поддержки сотрудников",
+      "company": " МодульБанк",
+      "salary": "40 000-48 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34175971?query=python",
+      "responsibility": "Забота о сотрудниках, помощь по ИТ проблемам и задачам пользователей. Обработка обращений пользователей в системе Service Desk (Jira). ",
+      "requirement": "Писать скрипты на powershell или python. Диагностировать сетевые проблемы с WireShark разбирая сетевые потоки и пакеты. Настраивать Mikrotik, коммутаторы cisco..."
+    },
+    {
+      "title": "QA Engineer",
+      "company": " Align Technology",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35326361?query=python",
+      "responsibility": "Design test cases and conduct test cases reviews. Driving and support test automation of our applications. Participate in project releases...",
+      "requirement": "3+ previous experience as QA Engineer. Experience in test automation (Python). Good communication and team work skills. "
+    },
+    {
+      "title": "Инженер по информационной безопасности",
+      "company": "ООО ЭЛСИ ГРУПП",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/31489167?query=python",
+      "responsibility": "Аудит прикладного и системного ПО, инфраструктуры и прав. Анализ защищенности продуктов и вн. инфраструктуры компании и составление модели угроз. ",
+      "requirement": "Базовый опыт разработки на скриптовых языках: Python, PowerShell, Bash. Базовые знания SQL. Образование в IT и / или ИБ. "
+    }
+  ],
+  [
+    {
+      "title": "Junior python developer",
+      "company": " БАРС Груп",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35085826?query=python",
+      "responsibility": "Мы используем в разработке: Тестирование: unittest, behave, selenium, etc. ОС и IDE на выбор разработчика.",
+      "requirement": "Мы хотим от кандидата: Опыт работы на Python и в Django;. Опыт работы с реляционными СУБД: PostgreSQL, Oracle, MySQL. "
+    },
+    {
+      "title": "Python разработчик",
+      "company": " Брокеркредитсервис",
+      "salary": "до 120 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35022756?query=python",
+      "responsibility": "Разработка на Python в JetBrains PyCharm. Построение веб-сервисов на Python. Покрытие кода юнит тестами. Разработка ETL-процессов.",
+      "requirement": "Знание Python. Знакомство с SQL, опыт работы с базами данных. Знакомство с системами контроля версий GIT, Mercurial. Понимание методологий разработки..."
+    },
+    {
+      "title": "Разработчик на Python (Senior), Москва",
+      "company": " DriverPack Solution",
+      "salary": "до 300 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35080652?query=python",
+      "responsibility": "",
+      "requirement": "1. Мы честны друг с другом."
+    },
+    {
+      "title": "Middle python developer",
+      "company": " БАРС Груп",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35125239?query=python",
+      "responsibility": "Мы используем в разработке: Тестирование: unittest, behave, selenium, etc. ОС и IDE на выбор разработчика.",
+      "requirement": "Мы хотим от кандидата: Опыт работы на Python и в Django;. Опыт работы с реляционными СУБД: PostgreSQL, Oracle, MySQL. "
+    },
+    {
+      "title": "Middle Python Developer",
+      "company": " DataArt",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34907970?query=python",
+      "responsibility": "Обучение английскому языку: курсы, общение с коллегами и клиентами из разных стран. - Поддержка докладчиков, выступающих на конференциях и встречах технологических...",
+      "requirement": "Опыт программирования на Python не менее 2-х лет. Опыт коммерческой разработки. Базовое знание SQL. Базовое знание JavaScript, Bootstrap. "
+    },
+    {
+      "title": "Backend-разработчик на Python",
+      "company": " LeadBazaar",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35015005?query=python",
+      "responsibility": "Участвовать в принятии всех технических решений на проекте. Проектировать архитектуру и разрабатывать компоненты веб-приложения.",
+      "requirement": "Высшее профильное образование (IT, физ-мат). Опыт работы программистом от 3 лет (чем интереснее опыт - тем лучше). Понимание алгоритмов и..."
+    },
+    {
+      "title": "Python developer",
+      "company": " БАРС Груп",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/29777304?query=python",
+      "responsibility": "Более 70 инсталляций в разных регионах России, развернутых более чем на 200 серверах. Мы используем в разработке: Тестирование: unittest, behave...",
+      "requirement": "РАССМАТРИВАЕМ КАНДИДАТОВ РАЗНЫХ УРОВНЕЙ. Опыт коммерческой разработки на Python. Навыки оптимальной работы с реляционными СУБД. Знание JavaScript (приветствуется опыт в..."
+    },
+    {
+      "title": "Backend-разработчик",
+      "company": "ООО Новосибирский Научно-Технический Центр (ННТЦ)",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35146479?query=python",
+      "responsibility": "Мы расширяем свою команду для создания современных веб-приложений. В их основе находится мощный backend-слой, обеспечивающий работу с большими...",
+      "requirement": "Умение работать в команде и желание строить эффективную команду. Знание Python будет плюсом. Плюсом будет умение/желание развиваться в смежных..."
+    },
+    {
+      "title": "Data Base Administrator (SQL)",
+      "company": " One Inc. Russia",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35186170?query=python",
+      "responsibility": "Минимум бюрократии, плоская структура. Быстро адаптируемся под текущие реалии, пробуем новое. Зрелые процессы, практикуем Agile. Надежный процесс код ревью. ",
+      "requirement": "MS SSIS ETL packages development. Shell scripting – PowerShell, Perl, Python. Windows/Linux – administering. Git. Monitoring systems – Nagios, Icinga – setup, administering. "
+    },
+    {
+      "title": "Senior QA engineer / QA lead",
+      "company": " i'way",
+      "salary": "от 60 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35186229?query=python",
+      "responsibility": "Тестирование продуктов компании: веб-сайты и сервисы (API, UI), мобильные приложения (Android, iOS). Улучшение и оптимизация процессов отдела: составление тестовой...",
+      "requirement": "Владение SQL и любого современного языка программирования (желательно любой из следующих: JS, Python, Java, PHP, Go). Имеешь опыт нагрузочного тестирования. "
+    },
+    {
+      "title": "Аналитик ML (машинное обучение)",
+      "company": " Отличные наличные",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34972066?query=python",
+      "responsibility": "Разработка алгоритмов анализа клиентских данных, профилирование клиентов, оценка платежеспособности и рисков, оптимизация структуры портфеля. Аналитика данных, поиск зависимостей, тестирование гипотез...",
+      "requirement": "Умение решать оптимизационные, эконометрические задачи, глубокое понимание теории вероятности, математической статистики, алгоритмики ML. Знание Python/R, SQL. Наличие реализованных проектов..."
+    },
+    {
+      "title": "QA Lead Engineer (Gamedev)",
+      "company": "ООО Фростгейт",
+      "salary": "70 000-120 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35105739?query=python",
+      "responsibility": "",
+      "requirement": "Большим плюсом будет знакомство с любым фреймворком для UI автоматизации игр (Poco, Airtest или AltUnityTester). Знание C# или Python на..."
+    },
+    {
+      "title": "Разработчик систем компьютерного зрения (Computer vision engineer)",
+      "company": " Revotail",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35166050?query=python",
+      "responsibility": "Разработка программно-аппратных систем для отслеживания людей на ограниченной площади. Имплементация и доработка CV моделей для распознавания поведения людей.",
+      "requirement": "Знания базы Deep Learning и Computer Vision. Уверенные знания python3 и библиотек numpy, pandas, opencv, scipy. Опыт работы с..."
+    },
+    {
+      "title": "Senior Embedded Linux Engineer",
+      "company": " OMG Electronics Litited",
+      "salary": "90 000-180 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35271981?query=python",
+      "responsibility": "Компания ОМГ Электроникс (Китай) занимается разработкой устройств в сфере потребительской электроники. Компания разрабатывает системы видеонаблюдения, игровые консоли и другие продукты.",
+      "requirement": "Знание скриптовых языков, таких как Python, Perl, Bash, Tcl и т.п. -Опыт постановки задач и руководства группой специалистов. -"
+    },
+    {
+      "title": "Data Engineer",
+      "company": " Akvelon",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35243531?query=python",
+      "responsibility": "Проектировать, разрабатывать и поддерживать etl pipelines. Создавать инфраструктуру для аналитиков. Улучшать и развивать продукт.",
+      "requirement": "От 3 лет опыта в области data engineering. Опыт разработки на Python, Java. Опыт с etl pipeline, data warehouse. "
+    },
+    {
+      "title": "Data Engineer (Python Developer)",
+      "company": " Зарплата.ру",
+      "salary": "до 120 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34494668?query=python",
+      "responsibility": "Clickhouse - для работы с аналитикой.",
+      "requirement": "Имеешь опыт работы с текстовыми данными TF-IDF, Word2vec. PHP 7, Python 3. Системы хранения данных — MySQL, MongoDB."
+    },
+    {
+      "title": "Lead Data Engineer (Python Developer)",
+      "company": " Зарплата.ру",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32483517?query=python",
+      "responsibility": "Clickhouse - для работы с аналитикой.",
+      "requirement": "Имеешь опыт работы с текстовыми данными TF-IDF, Word2vec. PHP 7, Python 3. Системы хранения данных — MySQL, MongoDB."
+    },
+    {
+      "title": "Backend (SQL) Разработчик (Академгородок)",
+      "company": " Группа компаний ЦРМ",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34096284?query=python",
+      "responsibility": "Развитие и поддержка поисковика по базе данных. Разработка и внедрение новых алгоритмов интеллектуального поиска. Мониторинг состояния сервиса. Техническая поддержка пользователей. ",
+      "requirement": "Опыт работы со Sphinx. Опыт работы с ReactJS. Опыт работы с GIT. Опыт работы с Python – Flask. Опыт работы с..."
+    },
+    {
+      "title": "Senior backend разработчик / Team Lead разработки платформы DMP (Big Data)",
+      "company": " Билайн",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35127155?query=python",
+      "responsibility": "Развитие платформы по работе с большими данными DMP (Data Management Platform). Задачи: Выбор технологий для реализации сервисов. Проектирование высоконагруженных сервисов. ",
+      "requirement": "Опыт работы с очередями сообщений (Kafka, ZeroMQ, Rabbit). Желательно знакомство со Scala, Python. Опыт планирования командной работы (постановка задач, планирование..."
+    },
+    {
+      "title": "Data scientist",
+      "company": " AD.RU",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35186665?query=python",
+      "responsibility": "Разработка комплексных аналитических моделей на основе методов машинного обучения. Разработка предиктивных моделей поведения клиентов и пользователей систем. Проведение аналитических исследований...",
+      "requirement": "Опыт построения аналитических моделей на R и/или Python. Умение работать с реляционными и NoSQL БД. Опыт работы со структурированными..."
+    }
+  ],
+  [
+    {
+      "title": "Ведущий Python разработчик",
+      "company": "ООО Тензор",
+      "salary": "160 000-245 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/33709965?query=python",
+      "responsibility": "Разрабатывать распределенные высоконагруженные информационные системы. Разрабатывать объекты бизнес-логики и эффективные методы для доступа к данным. Оптимизировать скорость обращения к...",
+      "requirement": "Владение Python на высоком уровне. Знание ООП. Знание паттернов проектирования и умение их применять. Опыт работы с базами данных. "
+    },
+    {
+      "title": "DevOps инженер",
+      "company": " Positive Technologies",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33255218?query=python",
+      "responsibility": "Автоматизацией деплоя для разных окружений, мы используем Terraform и Ansible. Разработкой CI/CD pipeline для выпуска продукта. Развитием мониторинга инфраструктурных...",
+      "requirement": "Опыт работы с системами configuration management. Умение писать на python и, желательно, bash. Опыт работы с системами виртуализации. "
+    },
+    {
+      "title": "Прикладной администратор (Единой Интеграционной Платформы)",
+      "company": "ПАО Ростелеком",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34751429?query=python",
+      "responsibility": "Прием и обработка инцидентов на 2-ой линии технической поддержки, первичная диагностика инцидентов. Консультирование пользователей по вопросам функционирования интеграционных решений. ",
+      "requirement": "Опыт администрирования Linux. Опыт разработки скриптов на Bash / Perl / Python приветствуется. Опыт администрирования/эксплуатации серверов приложений J2EE (Weblogic..."
+    },
+    {
+      "title": "Python-разработчик (Кипр, Лимассол)",
+      "company": " Кадровое агентство Алексея Сухорукова",
+      "salary": "до 3 500 EUR",
+      "href": "https://vladivostok.hh.ru/vacancy/26579688?query=python",
+      "responsibility": "Работа в команде разработчиков финансовых инструментов, создание высоконагруженных и отказоустойчивых систем, внутренних продуктов с использованием современных технологий. Создание архитектуры баз...",
+      "requirement": "Уверенное знание Python. Знание PostgreSQL: сложные join, наследование таблиц, триггеры, оптимизация запросов. Знание Linux на уровне разворачивания приложений и сервисов..."
+    },
+    {
+      "title": "Data Engineer (Германия, Дортмунд)",
+      "company": " Кадровое агентство Алексея Сухорукова",
+      "salary": "4 100-5 800 EUR",
+      "href": "https://vladivostok.hh.ru/vacancy/34688347?query=python",
+      "responsibility": "Развитие собственных BI-инструментов компании. Преобразование первичных данных. Создание BI-отчетов. Визуализация данных. Развертывание технологии интеграции Data Lakes и хранилищ...",
+      "requirement": "Английский язык на уровне В2 и выше. Опыт разработки на Scala, Python и/или Java. Знание Hibernate, Apache NiFi..."
+    },
+    {
+      "title": "Программист С#, PowerShell",
+      "company": " Positive Technologies",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33888840?query=python",
+      "responsibility": "Развитие системы управления распределенными компонентами продукта. Развитие инструментария для создания инсталляционных пакетов. Развитие системы сборки дистрибутива.",
+      "requirement": "Опыт написания и поддержки скриптов на PowerShell и Python. Опыт работы с WiX toolset и Microsoft Installer (MSI). "
+    },
+    {
+      "title": "Java-разработчик (Big Data)",
+      "company": " Центр финансовых технологий",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34918091?query=python",
+      "responsibility": "Предобработка данных. Подготовка признаков для моделей. Создание конвейеров поставки данных. Создание сервисов дообучения и применения моделей машинного обучения.",
+      "requirement": "...noSQL базами данных (напр., Cassandra). Опыт работы с Apache Spark и Yarn будет большим плюсом. Знание Scala, Python будет плюсом."
+    },
+    {
+      "title": "Продуктовый аналитик, Москва",
+      "company": " DriverPack Solution",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35053103?query=python",
+      "responsibility": "Покупаем сотрудникам всю нужную технику и программное обеспечение.",
+      "requirement": ""
+    },
+    {
+      "title": "Senior Python (Team Lead) Developer, Global Recorded Music Company, Санкт-Петербург",
+      "company": " DataArt",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34951570?query=python",
+      "responsibility": "О работе. Планируется расширение команды и рост проектов компании. На очереди разработка инструментов процессинга новых исполнителей и треков, управление лицензиями...",
+      "requirement": "Опыт программирования на Python не менее 3-х лет. Опыт и желание лидирования разработки в распределенных командах. Знание Django, Flask. "
+    },
+    {
+      "title": "DevOps Engineer (IoT Platform)",
+      "company": " DataArt",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35021787?query=python",
+      "responsibility": "Увеличение времени безотказной работы и доступности системы, обеспечение функционирования и оптимальной производительности по SLA. Организация сквозного мониторинга и оповещений по...",
+      "requirement": "Опыт работы с системами управления конфигурацией (Chef или Puppet). Опыт работы на Ruby или Python; для автоматизации и мониторинга систем. "
+    },
+    {
+      "title": "Software Documentation Developer",
+      "company": " documentat.io",
+      "salary": "80 000-120 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/32618729?query=python",
+      "responsibility": "User manuals for desktop applications and web-based solutions. Deployment/installation instructions for Linux-based server applications. Apart from that...",
+      "requirement": "Experience with at least two of the following languages: Python, JavaScript, PHP, Java. Excellent written Russian: no spelling mistakes, capability..."
+    },
+    {
+      "title": "Senior Разработчик ЦФТ-Банк (IBSO)",
+      "company": " МодульБанк",
+      "salary": "от 130 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/33032080?query=python",
+      "responsibility": "Доработой ЦФТ-Банк как дистрибутивных продуктов так и развитие собственных. Интеграцией АБС с внешними системами. Автоматизацией и оптимизацией процессов в...",
+      "requirement": "Знание Oracle SQL, PL/SQL, PL+. Знание Python, Java, автоматизированное и BDD тестирование, стек ELK. Знание основных подсистем: РКО, Кредиты..."
+    },
+    {
+      "title": "Solutions Architect",
+      "company": "ИП Лейдерман Эльвира Петровна",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35038044?query=python",
+      "responsibility": "Collaborate with Sales, Pre-sales and Cloud Engineering teams to help customers learn, adopt and use Cloud services combined with...",
+      "requirement": "...programming language, such as: Java, Python or Go. - Proficient at writing automation scripts (Bash, Python). - Excellent communication and presentation skills. - "
+    },
+    {
+      "title": "Ведущий программист JS",
+      "company": "ООО Тензор",
+      "salary": "160 000-245 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/33709989?query=python",
+      "responsibility": "Вопросы поиска, финансирования и размещения ваших сотрудников в современных удобных офисах мы берем на себя. Но от вас будем требовать...",
+      "requirement": "Math.exp(x): Опыта разработки на указанных выше ЯП или любом диалекте SQL. Способности чувствовать «красоту кода». Навыков управления командой разработки. "
+    },
+    {
+      "title": "Perl Developer, Communications Services (Санкт-Петербург)",
+      "company": " DataArt",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34951707?query=python",
+      "responsibility": "О работе. Наш клиент — глобальный поставщик решений для тестирования, аналитики и обеспечения безопасности в области телекоммуникаций. Специалисты DataArt помогают разрабатывать...",
+      "requirement": "Опыт работы с хранилищами данных. Опыт работы с SQL, NoSQL. Разговорный английский. Будет плюсом. Опыт работы с Python, Java, JavaScript."
+    },
+    {
+      "title": "Perl Developer, Music Analytic Service (Санкт-Петербург)",
+      "company": " DataArt",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34951728?query=python",
+      "responsibility": "Разработка: 40%. Поддержка / отладка, исправление багов: 40%. Общение с командой: 10% (Slack). Работа с документацией: 10%.",
+      "requirement": "Разговорный английский. Опыт работы с Google Cloud. Опыт работы с Python, PHP или Go. Опыт работы с Hbase, Hive, Solr."
+    },
+    {
+      "title": "Senior Java Developer (Германия, Гамбург)",
+      "company": " Кадровое агентство Алексея Сухорукова",
+      "salary": "4 100-5 800 EUR",
+      "href": "https://vladivostok.hh.ru/vacancy/34250972?query=python",
+      "responsibility": "Создание новых игровых функций и контента. Рефакторинг и модификация существующего кода с учетом новых настроек и динамического добавления контента. ",
+      "requirement": "Знакомство с другими языками программирования (одним или несколькими: C#, Python, JavaScript (Node.js), TypeScript, Ruby или Go). Более 5 лет работы..."
+    },
+    {
+      "title": "Инженер информационной безопасности (AppSec)",
+      "company": " Центр финансовых технологий",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34939169?query=python",
+      "responsibility": "Внедрение контролей безопасности в цикл безопасной разработки (SDLC) и их автоматизация. Анализ защищенности веб и мобильных приложений. Консультирование по вопросам...",
+      "requirement": "Опыт работы в аналогичной должности или разработчиком (Java, Python) не менее года. Опыт работы с динамическим сканером (DAST) и сканером..."
+    },
+    {
+      "title": "IT Тренер",
+      "company": " Nexign (АО «Нэксайн»)",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34975451?query=python",
+      "responsibility": "Разработка и актуализация учебных программ. Разработка или участие в разработке интерактивных мультимедийных курсов. Актуализация/ администрирование учебных стендов. Проведение занятий. ",
+      "requirement": "Знание Java/Python. Опыт работы с Linux. Опыт публичных выступлений, преподавательской деятельности. Английский на уровне intermediate и выше. "
+    },
+    {
+      "title": "Системный администратор / DevOps",
+      "company": "ООО ВилайнТв",
+      "salary": "от 80 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/32935605?query=python",
+      "responsibility": "Построение, автоматизация и поддержка prod/dev инфраструктуры.",
+      "requirement": "Ubuntu/Debian. Bash. GIT. Ansible. Docker. Опыт работы kubernetes. Опыт поддержки CI/CD систем (Jenkins или др.)."
+    },
+    {
+      "title": "Специалист технической поддержки хостинга",
+      "company": "ООО Серверные Технологии",
+      "salary": "от 40 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34996907?query=python",
+      "responsibility": "Поддержка и мониторинг обслуживаемых компанией серверов (работа в команде, более 500 серверов). Взаимодействие с клиентами, работа с тикетами. ",
+      "requirement": "Более 3 лет опыта администрирования *nix (преимущественно CentOS и Ubuntu). Опыт администрирования Windows Server приветствуется. Опыт администрирование основных сервисов (FTP..."
+    }
+  ],
+  [
+    {
+      "title": "Разработчик баз данных",
+      "company": "ЗАО Группа компаний С7",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32907656?query=python",
+      "responsibility": "Проектирование и разработка ETL процессов. Написание скриптов на SQL, Python, оптимизация запросов. Мы активно работаем над внедрением авто тестов и...",
+      "requirement": "Плюсом будет опыт работы с PostgreSQL, Informatica, любой mpp СУБД, опыт программирования на Python. В сотрудниках мы в первую очередь..."
+    },
+    {
+      "title": "Ведущий специалист по тестированию (Web QA)",
+      "company": " Movavi",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32740530?query=python",
+      "responsibility": "Улучшение и оптимизация процессов отдела: составление тест-планов, внедрение стандартов по написанию автотестов, составление регламентов. Написание автотестов на текущий функционал. ",
+      "requirement": "Знание теоретических основ тестирования. Базовые знания по web-технологиям (что такое HTML, как происходит взаимодействие между браузером и сервером). "
+    },
+    {
+      "title": "Senior Data Scientist (Академгородок)",
+      "company": "ООО ЭЛСИ ГРУПП",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/29701878?query=python",
+      "responsibility": "Распознавание образов в видеопотоке. Улучшение и разработка систем кредитного скоринга. Развитие текстовых и голосовых диалоговых систем. Моделирование поведения клиентов для...",
+      "requirement": "Наличие готовых проектов, успешно запущенных в продакшн. Опыт работы с Python, готовность писать продакшн-код. Опыт участия в конкурсах по..."
+    },
+    {
+      "title": "Data Scientist (Академгородок)",
+      "company": "ООО ЭЛСИ ГРУПП",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/31150346?query=python",
+      "responsibility": "Системы кредитного скоринга для различных стран. Чат-боты (текстовые, голосовые). Моделирование поведения клиентов для решения задач маркетинга. Анализ изображений (распознавание...",
+      "requirement": "Понимание принципов постановки экспериментов, проверки гипотез. Опыт работы с Python, библиотеками scikit-learn, numpy, scipy, pandas. Опыт использования и понимание..."
+    },
+    {
+      "title": "Data Scientist (специалист по анализу данных)",
+      "company": "ООО Shortest Track",
+      "salary": "30 000-120 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35339882?query=python",
+      "responsibility": "Генерация гипотез, постановка экспериментов совместно с удаленной командой Data Scientists. Разработка, доставка и поддержка прикладных решений машинного обучения. ",
+      "requirement": "Опыт работы в Linux и Docker. Опыт работы с Python frameworks: Django, Flask, Asynchronous I/O. Знание R. "
+    },
+    {
+      "title": "TypeScript/JavaScript разработчик системы 3D моделирования",
+      "company": "ЗАО Ледас",
+      "salary": "50 000-110 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35085143?query=python",
+      "responsibility": "Серверная часть приложения разрабатывается на С++ с использованием библиотек для геометрического моделирования, клиентская часть на TypeScript/JavaScript+WebGL+three.js.",
+      "requirement": "Знание следующих вспомогательных и/или используемых в других наших проектах технологий: С++ / C# / Python. MS Visual Studio / GCC / CMake. "
+    },
+    {
+      "title": "Разработчик виртуальной сети в Яндекс.Облако",
+      "company": " Яндекс",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34919169?query=python",
+      "responsibility": "",
+      "requirement": "Опыт работы с open source будет плюсом, а опыт работы с сетевой подсистемой ядра Linux, DPDK, VPP и хорошее представление..."
+    },
+    {
+      "title": "Team Lead Web QA",
+      "company": " Movavi",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32657688?query=python",
+      "responsibility": "Улучшение и оптимизация процессов отдела: составление тест-планов, внедрение стандартов по написанию автотестов, составление регламентов. Написание автотестов на текущий функционал. ",
+      "requirement": "Знание теоретических основ тестирования. Базовые знания по web-технологиям (что такое HTML, как происходит взаимодействие между браузером и сервером). "
+    },
+    {
+      "title": "Senior PHP Developer",
+      "company": "ООО Креатик Софт",
+      "salary": "110 000-150 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/33639905?query=python",
+      "responsibility": "Реализация новой функциональности. Поддержка работоспособности системы. Участие в обсуждении новой функциональности и технологий и принятии решений. Оптимизация производительности.",
+      "requirement": "Также плюсом будет: Опыт работы с Angular 2+. Знание Go / Python. Знание XSS, CSS/SQL/PHP injection, CSRF. "
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": " Movavi",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33194487?query=python",
+      "responsibility": "Проектирование и настройка систем автоматизации разворачивания окружений, доставки изменений и их тестирования. Проектирование, настройка и обслуживание веб-серверов, настройка на...",
+      "requirement": "Опыт написание деплоев Gitlab CI/CD. Опыт настройки систем мониторинга Zabbix, Prometheus. Знание и умение применять скриптовые языки, например, Python."
+    },
+    {
+      "title": "Senior PHP Developer",
+      "company": " Plesk",
+      "salary": "90 000-150 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34935221?query=python",
+      "responsibility": "Разработка нового функционала. Поддержка существующего функционала. Разработка автоматизированных тестов для продукта. Исправление ошибок.",
+      "requirement": "Диплом бакалавра или инженера техники и технологии. Не менее 4-х опыта работы в сфере веб-разработки и/или смежных..."
+    },
+    {
+      "title": "Senior JavaScript Developer",
+      "company": " Plesk",
+      "salary": "90 000-150 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34935440?query=python",
+      "responsibility": "Разработка нового функционала. Поддержка существующего функционала. Разработка автоматизированных тестов для продукта. Исправление ошибок.",
+      "requirement": "Диплом бакалавра или инженера техники и технологии. Не менее 4-х лет опыта работы в сфере веб-разработки и/или..."
+    },
+    {
+      "title": "QA Automation Engineer",
+      "company": " Центр финансовых технологий",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35348752?query=python",
+      "responsibility": "Тестирование функциональности: Выполнение ручного и автоматического тестирования. Формирование документов для тестирования. Внедрение новых инструментов и подходов к тестированию. ",
+      "requirement": "Хороший уровень знаний Java, Python, etc для написания автотестов. Владение инструментами - JUnit или TestNG. Умение работать с системами контроля версий..."
+    },
+    {
+      "title": "Android-разработчик в Браузер",
+      "company": " Яндекс",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/31492833?query=python",
+      "responsibility": "Поездки на специализированные конференции в качестве как слушателей, так и докладчиков.",
+      "requirement": "Опыт разработки на Kotlin, C/C++, JavaScript, Python и платформах Windows, Linux, Mac. Понимание, что такое современный веб и как..."
+    },
+    {
+      "title": "Data Scientist (голосовые технологии)",
+      "company": " Тинькофф",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32348833?query=python",
+      "responsibility": "Развивать архитектуру и алгоритмы обработки для акустической и языковой моделей распознавания речи. Ресерчить алгоритмы, которые помогут улучшить качество распознавания в...",
+      "requirement": "Практический опыт работы Data Scientist'ом не менее 2-х лет. Уверенные знания Python. Понимание базовых структур данных и алгоритмов..."
+    },
+    {
+      "title": "Product manager",
+      "company": " Drom",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35364548?query=python",
+      "responsibility": "Заниматься выработкой общей идеологии и видения продукта. Вырабатывать стратегию для достижения этого видения. Поддерживать жизненный цикла продукта. Вырабатывать KPI продукта. ",
+      "requirement": "Образование высшее (желательно высшее техническое в области информационных технологий). Аналитический склад ума, системность и организованность. Умение работать с информацией (сбор..."
+    },
+    {
+      "title": "Разработчик в группу распределённой сборки",
+      "company": " Яндекс",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34817505?query=python",
+      "responsibility": "Решать интересные алгоритмические и прикладные задачи. Участвовать в проектировании наших систем. Взаимодействовать со смежными командами и с пользователями.",
+      "requirement": "Знание C++. Понимание принципов сборки программ из исходного кода. Опыт разработки распределённых и высоконагруженных систем."
+    },
+    {
+      "title": "Java-разработчик в Яндекс.Маркет",
+      "company": " Яндекс",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32814681?query=python",
+      "responsibility": "Поездки на специализированные конференции в качестве как слушателей, так и докладчиков.",
+      "requirement": "...под Unix или Linux. Опыт использования непрерывной интеграции (CI) и непрерывной доставки (CD). Знание базовых принципов организации сетей. Знание Python."
+    },
+    {
+      "title": "Ведущий DevOps-инженер",
+      "company": " Брокеркредитсервис",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34921553?query=python",
+      "responsibility": "Внедрение, доработка и сопровождение продуктов проекта. Задачи DevOps. Организация процессов Ci/Cd. Сопровождение и конфигурация вспомогательного ПО: RabbitMQ, NGINX, Kafka.",
+      "requirement": "PostgreSQL, MySQL, GitLab, vault, Jenkins, Jfrog. Опыт написания скриптов bash, perl, python. Опыт работы с kafka/rabbitmq. Опыт написания запросов..."
+    },
+    {
+      "title": "Программист C#",
+      "company": "ООО Дата Ист",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33939924?query=python",
+      "responsibility": "Разрабатывать модули/плагины к ArcGIS Desktop на С# .NET с использованием WPF.",
+      "requirement": "Опыт работы с СУБД. Умение работать с системой контроля версий (GIT, TFS и пр.). Знание Python. Знакомство с гибкими методологиями..."
+    }
+  ],
+  [
+    {
+      "title": "Веб-программист",
+      "company": "ООО Национальная почтовая служба",
+      "salary": "до 60 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35320343?query=python",
+      "responsibility": "Разработка (доработка) ПО \"Личный кабинет клиента\". Разработка (доработка) сервиса \"Личный кабинет адресата\", сервиса платежей штрафов. Разработка (доработка) сервиса \"Мобильный курьер\".",
+      "requirement": "Python(Djago), PostgreSQL, HTML+CSS(1-3)+Javascript+XML+JSON+AJAX. Уверенные навыки в кроссбраузерной семантической вёрстке, отвечающей старым и новым стандартам. BootStrap. "
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": " Xored",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/30725695?query=python",
+      "responsibility": "For a network telemetry analytics project we're looking for a smart and highly motivated engineer. The project comprises acquisition...",
+      "requirement": "Netconf/YANG; Understanding of Cisco devices is a plus. C/C++, Python, Bash, R, JS/Typescript, Go. Willing to work..."
+    },
+    {
+      "title": "C# разработчик приложения для автоматизации обработки деталей на лазерных станках",
+      "company": "ЗАО Ледас",
+      "salary": "65 000-110 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35085136?query=python",
+      "responsibility": "Программист на языке C# в команду, разрабатывающую приложение, помогающее выполнять обработку деталей на лазерных станках. В приложении реализуются алгоритмы для...",
+      "requirement": "Вычислительные алгоритмы: C#/C++. Высшее техническое образование или обучение на последних курсах. Знание C#. Понимание и применение принципов ООП. "
+    },
+    {
+      "title": "Backend-разработчик под Linux",
+      "company": " 2ГИС",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33744064?query=python",
+      "responsibility": "Разрабатывать, поддерживать и развивать эти бэкенды. Обеспечивать удобный деплоймент и тестируемость разработанных решений.",
+      "requirement": "Отличные знания и опыт программирования на статически типизированном языке, таком как С++, Scala или Go. Знание Python, плюсом будет опыт..."
+    },
+    {
+      "title": "DevOps инженер",
+      "company": "ООО Shortest Track",
+      "salary": "100 000-140 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35339962?query=python",
+      "responsibility": "Участие в разработке инструментов поддержки жизненного цикла приложений. Доставка и поддержка разрабатываемых программных решений. Разработка, доставка и поддержка прикладных решений...",
+      "requirement": "Понимание принципов работы приложений с микросервисной архитектурой. Опыт написания кода на Python или других языках. Опыт создания и развёртываия Helm..."
+    },
+    {
+      "title": "DevOps инженер / ФинТех",
+      "company": " Центр финансовых технологий",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35127906?query=python",
+      "responsibility": "Поддержка работы IT-инфраструктуры, сервисов и ПО, CI/CD. Мониторинг работоспособности сервиса, устранение проблем и дефектов в работе системы. ",
+      "requirement": "Опыт работы с Docker, Kubernetes, понимание принципов виртуализации, контейнеризации. Знание bash, python для автоматизации администрирования. Опыт работы с системами сборки..."
+    },
+    {
+      "title": "Linux backend developer",
+      "company": " Plesk",
+      "salary": "90 000-150 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34477657?query=python",
+      "responsibility": "Написание и модификация существующего кода на C/C++/Python/Bash по интеграции Linux-сервисами. Сборка, и выпуск продукта в виде...",
+      "requirement": "2+ года разработки системного ПО под Linux на C/C++ (STL, Boost), python. Базовые навыки администрирования и средств разработки..."
+    },
+    {
+      "title": "Инженер DevOps",
+      "company": " N1.RU",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34270442?query=python",
+      "responsibility": "Делаем повторяемыми процессы разработки localdev -> stage -> production. Развиваем нашу систему мониторинга. Пишем подручные инструменты на bash / Python / Go. ",
+      "requirement": "Понимание принципов построения сетей. Понимание принципов непрерывной поставки приложений. Понимание принципов построения отказоустойчивой инфраструктуры. Умение диагностировать проблемы. Использование подхода Infrastructure..."
+    },
+    {
+      "title": "Tech lead Backend",
+      "company": "ООО АйТи Мегастар",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33995082?query=python",
+      "responsibility": "Разработка backend части приложений с нуля и доработка существующих. Архитектура баз данных. Деплой приложений на тестовый и боевой сервер. ",
+      "requirement": "Опыт разработки backend от 2 лет. Уверенное знание Python или PHP. Опыт использования REST API. Опыт работы с любой из..."
+    },
+    {
+      "title": "Разработчик Oracle PL SQL / Python",
+      "company": "ПАО Ростелеком",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35335088?query=python",
+      "responsibility": "Проектировать базы данных и оптимизировать программные модули. Разрабатывать программные модули в Oracle PL/SQL. Разрабатывать Python модули для реализации ETL...",
+      "requirement": "Понимание принципов проектирования БД. Понимание принципов построения DWH. Знание Python для разработки взаимодействия с базами данных. Опыт разработки ETL-процессов. "
+    },
+    {
+      "title": "Software Engineer (java)",
+      "company": " Xored",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/26662707?query=python",
+      "responsibility": "Управления лабораториями и дата-центрами с тысячами устройств. Эффективное использование ресурсов. Обеспечение отсутствия конфликтов одновременного доступа к оборудованию. ",
+      "requirement": "Знание классических алгоритмов и структур данных. Уверенное знание Java Core. Опыт коммерческой разработки на Java. Знание английского на уровне Intermediate..."
+    },
+    {
+      "title": "Аналитик BI",
+      "company": " N1.RU",
+      "salary": "от 80 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35063669?query=python",
+      "responsibility": "Мы ищем опытных аналитиков, которые в составе кросс-функциональных продуктовых команд будут определять целевые метрики для достижения стратегических целей компании...",
+      "requirement": "Имеете опыт планирования экспериментов. Имеете опыт анализа данных с помощью Python. Имеете опыт решения задач с помощью ML. "
+    },
+    {
+      "title": "Python разработчик в SOC",
+      "company": "ОАО ИнфоТеКС",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35310508?query=python",
+      "responsibility": "Разработка компонент для средства сбора и анализа логов. Интеграция разработанных средств сбора с существующими системами. Проведение code review разработанных продуктов. ",
+      "requirement": "Базовые, но уверенные знания Python, Django. Опыт разработки приложений с БД (PostgreSQl, MongoDB, MSSQL). Умение составлять и оптимизировать запросы к..."
+    },
+    {
+      "title": "Security engineer",
+      "company": " Plesk",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34902180?query=python",
+      "responsibility": "Отслеживание и анализ уязвимостей в используемых библиотеках и внешних компонентах. Анализ рисков и моделирование угроз. Анализ кода и внешнее тестирование...",
+      "requirement": "Опыт разработки на любом языке программирования, умение разобраться в чужом коде (PHP, Go, Javascript, Python, Bash). Понимание TCP/IP и..."
+    },
+    {
+      "title": "Ведущий системный аналитик",
+      "company": " Integral",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34401288?query=python",
+      "responsibility": "Собирать, определять и уточнять бизнес-цели. Проводить системный анализ на основе бизнес-требований. Переводить бизнес-требования в технические спецификации. ",
+      "requirement": "Понимание и способность идентифицировать потребности клиентов. Опыт создания технических требований. Английский язык на уровне В1 и выше. "
+    },
+    {
+      "title": "Team Leader (со стеком Java)",
+      "company": " Plesk",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35105357?query=python",
+      "responsibility": "Беcсбойную эксплуатацию системы 24/7. Организацию развития и модификации системы под новые требования, создание новых подсистем и рефакторинг старых, принятие...",
+      "requirement": ""
+    },
+    {
+      "title": "DevOps engineer",
+      "company": " Bacup IT",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34914307?query=python",
+      "responsibility": "Обеспечение бесперебойной работы сервисов. Автоматизация задач администрирования. Взаимодействие с разработчиками, системными администраторами, менеджерами, координация команд по смежным областям. ",
+      "requirement": "Знание одного из скриптовых языков (Bash, Python и т.п.). Знание языка SQL. Опыт настройки CI и CD систем Gitlab. "
+    },
+    {
+      "title": "Инженер центра поддержки сотрудников",
+      "company": " МодульБанк",
+      "salary": "40 000-48 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34175971?query=python",
+      "responsibility": "Забота о сотрудниках, помощь по ИТ проблемам и задачам пользователей. Обработка обращений пользователей в системе Service Desk (Jira). ",
+      "requirement": "Писать скрипты на powershell или python. Диагностировать сетевые проблемы с WireShark разбирая сетевые потоки и пакеты. Настраивать Mikrotik, коммутаторы cisco..."
+    },
+    {
+      "title": "QA Engineer",
+      "company": " Align Technology",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35326361?query=python",
+      "responsibility": "Design test cases and conduct test cases reviews. Driving and support test automation of our applications. Participate in project releases...",
+      "requirement": "3+ previous experience as QA Engineer. Experience in test automation (Python). Good communication and team work skills. "
+    },
+    {
+      "title": "Инженер по информационной безопасности",
+      "company": "ООО ЭЛСИ ГРУПП",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/31489167?query=python",
+      "responsibility": "Аудит прикладного и системного ПО, инфраструктуры и прав. Анализ защищенности продуктов и вн. инфраструктуры компании и составление модели угроз. ",
+      "requirement": "Базовый опыт разработки на скриптовых языках: Python, PowerShell, Bash. Базовые знания SQL. Образование в IT и / или ИБ. "
+    }
+  ],
+  [
+    {
+      "title": "Стажер-разработчик, ПО и КИС",
+      "company": " Отраслевой центр разработок и внедрения информационных систем / ОЦРВ",
+      "salary": "от 26 400 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35307658?query=python",
+      "responsibility": "",
+      "requirement": "Начальное знание одного из языков программирования (C++, C#, Java, Python, JavaScript, Perl ABAP/4). Базовые знания SQL. Опыт использования одной..."
+    },
+    {
+      "title": "Системный администратор",
+      "company": " Высший колледж информатики НГУ",
+      "salary": "32 500-50 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/32331384?query=python",
+      "responsibility": "Установка и настройка программ для нужд учебного процесса (MS VisualStudio, Delphy, Python и пр.). Установка компьютерной техники и периферийных устройств...",
+      "requirement": "Образование: Высшее (инженер или магистр!). Стаж работы: Не менее 3-х лет с парком обслуживаемых ПК не менее 100 шт. "
+    },
+    {
+      "title": "C/C++ developer (PON)",
+      "company": "ООО «Предприятие «ЭЛТЕКС»",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33764951?query=python",
+      "responsibility": "Проектированием и разработкой сервисов, интерфейсов и сетевых протоколов. Запуском новых устройств в линейке PON. Сопровождением текущего функционала, рефакторингом и ревью...",
+      "requirement": "Умение работать в команде. Владение скриптовыми языками: bash, perl, python или др.. Понимание принципов работы аппаратных средств вычислительных систем. "
+    },
+    {
+      "title": "DevOps инженер",
+      "company": " Тинькофф",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34229783?query=python",
+      "responsibility": "Работать с высоконагруженными системами. Внедрять Kubernetes в боевых ДЦ Компании. Помогать командам разработки мигрировать на новую инфраструктуру. Разрабатывать инфраструктурный софт. ",
+      "requirement": "Опыт системного администрирования ОС Linux. Обязательно знание одного из языков Python, Go. Понимание принципов контейнеризации (Docker). Понимание принципов непрерывной интеграции."
+    },
+    {
+      "title": "Разработчик С++ (сервис поиска)",
+      "company": " 2ГИС",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34253587?query=python",
+      "responsibility": "",
+      "requirement": "Разработчика с опытом разработки на С++, знанием C++11/14/17, приветствуются знание python, SQL, навыки по обработке больших массивов..."
+    },
+    {
+      "title": "Senior/Middle Android разработчик",
+      "company": " Тинькофф",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33425137?query=python",
+      "responsibility": "Разработка приложений, относящихся к сферам банковского ПО, социальным сетям. Развитие и документирование библиотеки компонентов мобильных приложений. Эффективное решение нестандартных задач.",
+      "requirement": "Опыт code-review (контроль качества кода). Опыт разработки серверных приложений (Java, Scala, Python). Опыт работы с БД (Oracle, SQLite). "
+    },
+    {
+      "title": "Разработчик С++ (3D карта)",
+      "company": " 2ГИС",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35148208?query=python",
+      "responsibility": "",
+      "requirement": "Опыт разработки многопоточных приложений. Навыки измерения производительности и профилирования графических программ. Опыт работы с Jenkins, знание Metal, Python, CMake."
+    },
+    {
+      "title": "Senior CV Engineer",
+      "company": " DSR, Группа Компаний",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33404501?query=python",
+      "responsibility": "Участие в сборе и подготовке данных. - Участие в Kaggle.",
+      "requirement": "Знание Python и пакетов для анализа данных (scikit-learn, pandas, numpy, scipy). - Опыт разработки с использованием библиотеки OpenCV. - "
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": " Grid Dynamics",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35322114?query=python",
+      "responsibility": "Develop solution for automated deployment and CI/CD pipelines; manage the LLE Environment. Design and develop deployment kits for e...",
+      "requirement": "Experience with Ansible. Cloud - GCP / AWS. Ansible / Terraform / Python / Bash. Network / Unix knowledge is essential on Competent level. "
+    },
+    {
+      "title": "DevOps инженер (Голосовой помощник)",
+      "company": " Тинькофф",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35317376?query=python",
+      "responsibility": "Развитие и автоматизация инфраструктурных сервисов. Поддержка процесса разработки компании. Внедрение и поддержка процессов CI/CD. Настройка мониторинга (alerts, dashboards). ",
+      "requirement": "Опыт разработки на языках Python, Go. Опыт работы с любой CI/CD платформой (Teamcity, Jenkins, Ansible, Gitlab-CI и т..."
+    },
+    {
+      "title": "IOS разработчик",
+      "company": " Тинькофф",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/30782878?query=python",
+      "responsibility": "Разработка приложений, относящихся к сферам банковского ПО, социальным сетям. Развитие и документирование библиотеки компонентов мобильных приложений. Эффективное решение нестандартных задач.",
+      "requirement": "Опыт code-review (контроль качества кода). Опыт разработки серверных приложений (Java, Scala, Python). Опыт работы с БД (Oracle, SQLite). "
+    },
+    {
+      "title": "Разработчик C++, 3D алгоритмы",
+      "company": " Align Technology",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34546412?query=python",
+      "responsibility": "Анализ текущих проблем, требований и зависимостей. Исследование и прототипирование решений. Проектирование и разработка новых решений для 3D сегментации, реконструкции...",
+      "requirement": "Высшее техническое образование (инженерное, computer science, математическое). Отличное знание С++, STL, ООП. Понимание основных концепций Machine Learning. Базовые знания линейной..."
+    },
+    {
+      "title": "Системный администратор",
+      "company": " SIBERS",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34024010?query=python",
+      "responsibility": "Сейчас мы ищем в команду человека, который присоединится к нам в качестве системного администратора. Он не побоится лицом к лицу...",
+      "requirement": "Владения скриптовыми языками для автоматизации: Bash, Python и т.д. Знания популярных open-source продуктов: веб-серверов, баз данных, почтовых..."
+    },
+    {
+      "title": "IOS разработчик (Академгородок)",
+      "company": " Тинькофф",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34438561?query=python",
+      "responsibility": "Разработка приложений, относящихся к сферам банковского ПО, социальным сетям. Развитие и документирование библиотеки компонентов мобильных приложений. Эффективное решение нестандартных задач.",
+      "requirement": "Опыт code-review (контроль качества кода). Опыт разработки серверных приложений (Java, Scala, Python). Опыт работы с БД (Oracle, SQLite). "
+    },
+    {
+      "title": "Разработчик в отдел R&D (Python)",
+      "company": " Azoft",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/32650967?query=python",
+      "responsibility": "Тренируем нейронные сети на видеокарте. Сервер распознавания текста на изображении. Закрытую парковку: для автомобилей, велосипедов, самокатов, гироскутеров :).",
+      "requirement": "Опытом в Python, в частности NumPy, OpenCV, Scikit-learn, Pandas. Знанием SVM, PCA, kNN, Decision Trees, Ensembles (Bagging, Boosting, Random..."
+    },
+    {
+      "title": "Специалист по анализу данных (Data Scientist) г. Сочи",
+      "company": " Отраслевой центр разработок и внедрения информационных систем / ОЦРВ",
+      "salary": "110 000-150 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35263307?query=python",
+      "responsibility": "Подготовка и разметка обучающих датасетов. Проведение разведывательного анализа. Анализ научных публикаций с целью поиска и внедрения новых подходов в процесс...",
+      "requirement": "Математика (линейная алгебра, теория вероятностей, математическая статистика и математический анализ). Python (numpy, scipy, matplotlib, pandas, sklearn). Высокий уровень знаний алгоритмов..."
+    },
+    {
+      "title": "Инженер технической поддержки (3 линия)",
+      "company": " Центр финансовых технологий",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34494231?query=python",
+      "responsibility": "Золотая Корона-Денежные Переводы. - Транспортная Карта. - Процессинговый Центр «КартСтандарт». Команда инженеров 3 линии поддержки решает сложные заявки на обслуживание. ",
+      "requirement": "Вы получите опыт работы с финансовыми продуктами ЦФТ, отлично прокачаете знания SQL, Oracle, Apache, Java, Unix, Windows Servers, навыки программирования. "
+    },
+    {
+      "title": "Специалист отдела системного администрирования",
+      "company": " Finbridge",
+      "salary": "до 80 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35292947?query=python",
+      "responsibility": "Администрирование Kubernetes кластера. Автоматизация задач администрирования, написание скриптов (bash, PowerShell, python, php, Go). Администрирование MSSQL 2012/2017. Обеспечение бесперебойной работы...",
+      "requirement": "Опыт администрирования в сфере ИТ — от 3 лет. Умение работать с Jira, Confluence, Docker, Git. Опыт администрирования Windows Server, Linux..."
+    },
+    {
+      "title": "Системный аналитик",
+      "company": " Брокеркредитсервис",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35295205?query=python",
+      "responsibility": "Выявить и проанализировать величину разночтений, неполноты данных, ошибок при интеграции ИС, риски и причины возникновения ошибок. Провести комплекс работ по...",
+      "requirement": "Опыт работы с веб-сервисами (SOAP, REST). Будет плюсом: Наличие опыта участия в проекте создания хранилищ данных. Знание Python. "
+    },
+    {
+      "title": "DevOps Engineer (Германия, Эрфурт)",
+      "company": " Кадровое агентство Алексея Сухорукова",
+      "salary": "4 100-5 800 EUR",
+      "href": "https://vladivostok.hh.ru/vacancy/33628065?query=python",
+      "responsibility": "Предоставление, эксплуатация и защита приложений и сервисов в Docker и Virtual Machine. Поддержка существующей архитектуры. Разработка новых решений, таких как...",
+      "requirement": "Базовое знание одного или нескольких языков программирования (Java, C++, Golang, Python, PHP). Опыт работы в Docker или аналогах. "
+    }
+  ],
+  [
+    {
+      "title": "Аналитик данных OSS",
+      "company": "ООО Ростелеком Информационные Технологии",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35297720?query=python",
+      "responsibility": "Проверять на соответствие исходным данным и согласовывать документы, предоставляемые заказчиком и подрядчиком (ФТ, ТЗ, ПМИ). Создавать и настраивать выгрузки данных. ",
+      "requirement": "Имеешь опыт разработки, как минимум, на одном языке программирования (Java, JavaScript, C/C++/C#, Python и др.). Понимаешь принципы работы..."
+    },
+    {
+      "title": "QA automation engineer / SDET",
+      "company": " 2ГИС",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34375613?query=python",
+      "responsibility": "Анализ требований и составление тест-кейсов. Автоматизация тестирования: написание функциональных и интеграционных тестов. Активное участие в проработке архитектуры сервисов и...",
+      "requirement": "Навыки программирования на любом высокоуровневом языке (предпочтительно Python). Знакомство с Linux и Bash. Желание развиваться профессионально и изучать новые технологии."
+    },
+    {
+      "title": "Front-end разработчик",
+      "company": " Azoft",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/30967571?query=python",
+      "responsibility": "Работать в команде над большими проектами. Писать мелкие и средние проекты с нуля самостоятельно и поддерживать существующие проекты. ",
+      "requirement": "...гибридной разработки: React Native или NativeScript. Большим плюсом будет опыт работы в PHP, Python или Ruby. Плюсом будет знание SQL."
+    },
+    {
+      "title": "Инженер-тестировщик (направление VoIP)",
+      "company": "ООО «Предприятие «ЭЛТЕКС»",
+      "salary": "от 35 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34639449?query=python",
+      "responsibility": "Составление тест-комплектов и тест-планов. Тестирование VoIP оборудования. Написание методик тестирования. Написание технической документации. Автоматизация тестирования. Hardware-тестирование. ",
+      "requirement": "...SIP, H.248, SIGTRAN, SS7, DSS1). Опыт работы с ОС Linux. Опыт программирования на скриптовых языках (Bash, Python)."
+    },
+    {
+      "title": "Инженер-тестировщик (направление Media)",
+      "company": "ООО «Предприятие «ЭЛТЕКС»",
+      "salary": "от 35 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34337069?query=python",
+      "responsibility": "Hardware тестирование. Software тестирование. Техническое сопровождение продукта.",
+      "requirement": "Умение работать как в команде, так и самостоятельно. Знание языков программирования C/C++, python. Понимание принципов написания скриптов с использованием..."
+    },
+    {
+      "title": "Middle Network Engineer/ Сетевой инженер",
+      "company": "ООО «Предприятие «ЭЛТЕКС»",
+      "salary": "от 50 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34846068?query=python",
+      "responsibility": "Hardware тестирование телекоммуникационного оборудования (опытных образцов). Тестирование ПО на предмет работы каждого протокола,поддерживаемого в устройстве во всех возможных окружениях...",
+      "requirement": "Умение работать как в команде, так и самостоятельно. Знание принципов написания скриптов для автоматизации процесса. Опыт программирования на python."
+    },
+    {
+      "title": "Middle Python-разработчик",
+      "company": " СКБ Контур",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34876604?query=python",
+      "responsibility": "Проработка архитектурных решений и разработка сервиса с «0». Разработка API для взаимодействия с frontend и мобильным приложением. Разработка компонентов для...",
+      "requirement": "Опыт разработки на Python от двух лет. Опыт работы с Django, PostgreSQL, Redis, Docker. Опыт разработки с single page application..."
+    },
+    {
+      "title": "Инженер технической поддержки (Wireless)",
+      "company": "ООО «Предприятие «ЭЛТЕКС»",
+      "salary": "от 35 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34758193?query=python",
+      "responsibility": "Техническое сопровождение крупных клиентов и заказчиков. Консультировать клиентов (сетевые инженеры, системные администраторы) по конфигурированию/проблемам/пожеланиям. Воспроизводить проблемы клиента в...",
+      "requirement": "Знание сетевой науки: коммутация, маршрутизация, TCP/IP и пр.. Приветствуются знания в области беспроводных систем. Знание основ python."
+    },
+    {
+      "title": "Middle C++ разработчик",
+      "company": " СКБ Контур",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/33879207?query=python",
+      "responsibility": "Поддержка и развитие Плагина, упрощение работы с ним. Помощь с задачами Кабинету Удостоверяющего центра.",
+      "requirement": "Опыт работы в команде промышленной разработки не менее года. Знание C++ и желание писать большую часть кода на нем. "
+    },
+    {
+      "title": "Data-engineer",
+      "company": " WazzApps (ИП Лабецкий Б.С.)",
+      "salary": "от 80 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34399094?query=python",
+      "responsibility": "Создание и поддержка систем, сбор данных из различных источников, фильтрация и сохранение их в базах данных. Написание SQL запросов для...",
+      "requirement": "Опыт написания скриптов для сбора и обработки данных (PHP, Python, bash). Опыт работы с Clickhouse и другими БД для аналитики. "
+    },
+    {
+      "title": "Инженер DevOps в продуктовую команду",
+      "company": " СКБ Контур",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34992276?query=python",
+      "responsibility": "Подготовкой инфраструктуры для веб-приложений C#, Java, Node.JS, Python. Построением релизного цикла: от кода в репозитории до запуска на продакшн...",
+      "requirement": "Протоколов HTTP(S) и DNS. Технологий виртуализации. Принципов работы веб-приложений. Принципов построения распределенных отказоустойчивых систем. Устройства Active Directory."
+    },
+    {
+      "title": "Эксперт аналитического центра / Data scientist",
+      "company": " Сибирская генерирующая Компания УК",
+      "salary": "до 100 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35221268?query=python",
+      "responsibility": "Применение машинного обучения для решения бизнес- задач. Формирование гипотезы и определение необходимых источников данных совместно с бизнес- Заказчиком. ",
+      "requirement": "Широкая эрудиция в области современных информационных технологий. Хорошее знание Python. Знание стандартных библиотек scikit-learn, numpy, pandas, scipy, нейросетевых платформ. "
+    },
+    {
+      "title": "Разработчик Python отдела Serverless",
+      "company": " Selectel",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34721279?query=python",
+      "responsibility": "Развивать внутренние и публичные сервисы продукта Бессерверные вычисления. Проектировать решения и заниматься их имплементацией. Поддерживать открытые SDK для работы с...",
+      "requirement": "Хорошее знание языка программирования Python. Опыт работы с noSQL и SQL базами данных. Опыт написания unit- и функциональных тестов. "
+    },
+    {
+      "title": "Аналитик BI",
+      "company": " Finbridge",
+      "salary": "от 50 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35240166?query=python",
+      "responsibility": "Построение отчетов. Аd-hoc анализ данных. Поддержка ETL процедур. Построения DWH. Поддержка Dashboard.",
+      "requirement": "...основ языков программирования высокого уровня. Опыт написания проектной и технической документации. Опыт работы с базами данных. Знание Excel, SQL, Python."
+    },
+    {
+      "title": "Middle Go Developer (GKT Team)",
+      "company": " SEMrush",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34599790?query=python",
+      "responsibility": "Писать работающий, качественный, понятный и тестируемый код (у нас нет легаси). Разрабатывать и поддерживать бекенд на Go. Развивать инфраструктуру. ",
+      "requirement": "Желания пробовать новое и знаний для встраивания этого в уже работающие сервисы. Go. Python. JS. C++. Shell Scripting (Linux). "
+    },
+    {
+      "title": "Ruby/Python разработчик",
+      "company": "ООО Спорт Автоматика",
+      "salary": "40 000-80 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35195251?query=python",
+      "responsibility": "",
+      "requirement": "Опыт ООП на Ruby, Python, Java или C++ (хотя бы на одном). Опыт работы с реляционными базами данных MySQL, PostgreSQL..."
+    },
+    {
+      "title": "Python developer",
+      "company": " Acryl platform",
+      "salary": "80 000-120 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/32434989?query=python",
+      "responsibility": "Написание кода на python для поддержания работоспособности ПО на узлах сети и сбора информации с них. Написание небольших API сервисов...",
+      "requirement": "Обязательные. Опыт программирования на Python от 2х лет: знание методологии ООП и применение на практике, написание кода по стандарту..."
+    },
+    {
+      "title": "DevOps Engineer (Cyprus)",
+      "company": " IBIT",
+      "salary": "от 3 500 EUR",
+      "href": "https://vladivostok.hh.ru/vacancy/34948562?query=python",
+      "responsibility": "",
+      "requirement": "Требуемый опыт работы: 3–6 лет. Преимуществом будет: Опыт с WebSocket. Опыт защиты от DDOS-атак. Опыт оптимизации больших баз..."
+    },
+    {
+      "title": "Программист JS",
+      "company": "ООО Тензор",
+      "salary": "75 000-120 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/26077753?query=python",
+      "responsibility": "Разработке продукта для управления, учета и отображения сотрудников (а также прочих физических лиц) на онлайн-портале, в оффлайн приложениях. ",
+      "requirement": "Владение JavaScript. Понимание принципов ООП в JavaScript. Понимание принципов верстки, адаптивности. Знакомство с системой контроля версий (такие как GIT, SVN). "
+    },
+    {
+      "title": "Linux Administrator",
+      "company": " IQ Орtiоn Sоftwаre",
+      "salary": "до 160 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35246372?query=python",
+      "responsibility": "Администрирование промышленных сред. Разработка, администрирование и развитие повторяемых окружений. Автоматизация окружений по принципу «инфраструктура как код». Автоматизация процессов разработки, тестирования...",
+      "requirement": "Умение писать скрипты на одном или нескольких языках, предпочтительней python/bash. Администрирование Postgresql. Представление о построении отказоустойчивой инфраструктуры. "
+    }
+  ],
+  [
+    {
+      "title": "Build-Engineer (Билд-инженер)",
+      "company": " Playrix",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35184405?query=python",
+      "responsibility": "Работа с широким спектром современных технологий, разработанных JetBrains, AWS, Google, Docker, HashiCorp. Разработка вспомогательных утилит на Python. Администрирование и автоматизация...",
+      "requirement": "Умение читать техническую документацию на английском. Желателен опыт в программировании на Python. Желательно знание принципов автоматизированного тестирования приложений. "
+    },
+    {
+      "title": "Senior Java Developer (RubyMine)",
+      "company": " JetBrains",
+      "salary": "от 180 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/29854293?query=python",
+      "responsibility": "Первый тип — задачи, связанные с обработкой большого объема исходного кода. IDE должна на лету обрабатывать введённый код, подсвечивать в нём...",
+      "requirement": "Имеешь опыт разработки на Java от 5 лет. Умеешь проектировать и писать код, который легко читать и поддерживать. "
+    },
+    {
+      "title": "DBA инженер отдела облачных баз данных",
+      "company": " Selectel",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34720817?query=python",
+      "responsibility": "Проектировать сервисы для автоматизации работы с различными базами данных. Оптимизировать архитектуру для работы в облачной среде. Вместе с разработчиками строить...",
+      "requirement": "Умение читать код на C, Go. Навыки скриптования на Bash, Python. Знакомство с проектом OpenStack, его экосистемой и инфраструктурой для..."
+    },
+    {
+      "title": "Java Swing Developer (IntelliJ Platform UI Team)",
+      "company": " JetBrains",
+      "salary": "от 160 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/26133526?query=python",
+      "responsibility": "Вместе с командой разрабатывать IntelliJ Platform - платформу для создания сред разработки таких как: IntelliJ IDEA, RubyMine, PyCharm, PhpStorm, WebStorm, CLion...",
+      "requirement": "Знание других языков и других парадигм (Groovy, Haskell, Objective C, Python, Scala, Ruby, etc.). Знакомство с технологиями создания компиляторов, анализа..."
+    },
+    {
+      "title": "Инженер по развитию систем лояльности и клиентской отчетности",
+      "company": "ПАО МегаФон, IT",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34862627?query=python",
+      "responsibility": "Внедрение, эксплуатация, конфигурация программных продуктов, относящихся к бизнес-системам федерального сотового оператора (направление «Программы Лояльности» - бонусы, кэшбэк, вознаграждения, vip-привелегии...",
+      "requirement": "Опыт администрирование Unix, Windows. Знание SQL, Git. Плюсом будет знание: Oracle PL/SQL, Python, стэк CI/CD ( Jenkins, Ansible, Robot..."
+    },
+    {
+      "title": "Руководитель сектора",
+      "company": "ООО Тензор",
+      "salary": "225 000-325 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35188528?query=python",
+      "responsibility": "Бухгалтерия (понятная и удобная учетная система со встроенным ОФД, ЕГАИС, ЭДО и электронной отчетностью). Все о компаниях (реквизиты, владельцы, финансовое...",
+      "requirement": "Опыт работы ведущим программистом / руководителем проектов от 3 лет. Знание С++/Python/JS и/или любого из диалектов SQL. "
+    },
+    {
+      "title": "Системный архитектор|Architect (Wintel&Azure Cloud)",
+      "company": " GDC (ICL Services)",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35229028?query=python",
+      "responsibility": "Предпроектная проработка решений, технический пресейл (работа с требованиями, разработка соответствующих решений, защита решений перед заказчиком). Консультирование заказчиков (и его технического...",
+      "requirement": "Знание Powershell/Python на уровне автоматизации повседневных задач. Опыт создания CI/CD-цепочек развертывания ПО с помощью компонент и инструментов..."
+    },
+    {
+      "title": "DevOps-инженер",
+      "company": " True Engineering",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34864749?query=python",
+      "responsibility": "Настройка сред разработки и тестирвоания (dev, uat, stage, prod). Настройка процессов сборки и доставки приложений (Gitlab, TFS, HELM). ",
+      "requirement": "Законченное высшее образование. Понимание процессов DevOps. Навыки настройки процессов CI/CD. Понимание принципов построения сетей, сетевых протоколов, маршрутизации. "
+    },
+    {
+      "title": "Системный администратор Unix",
+      "company": " KUPIVIP.RU",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34918741?query=python",
+      "responsibility": "Поддержка инфраструктуры компании и процесса разработки посредством внедрения современных систем, CI / CD, мониторинга, журналирования событий, управления базами данных. - ",
+      "requirement": "Опыт написания скриптов автоматизации на bash / python / ruby. - Отличное знание стэка TCP/IP и сетевых сервисов, тюнинг под большие нагрузки. - "
+    },
+    {
+      "title": "Программист-тестировщик (веб-производительность)",
+      "company": "ООО Тензор",
+      "salary": "65 000-104 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34826715?query=python",
+      "responsibility": "Разрабатывать автотесты. Работать с CI Jenkins. Разрабатывать свои инструменты и очень много общаться с разработчиками Wasaby.",
+      "requirement": "И самое главное - умение быстро учиться и желание развиваться в данной области. Опыт разработки на Python и Java. "
+    },
+    {
+      "title": "Программист-тестировщик (производительность мобильных приложений)",
+      "company": "ООО Тензор",
+      "salary": "50 000-76 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34826860?query=python",
+      "responsibility": "Тестировать производительность мобильных приложений (утечки памяти, потребление батарейки, скорость работы интерфейса, etc.). Создавать автотесты. Разрабатывать собственные инструменты.",
+      "requirement": "Технический английский со словарем. Опыт разработки на Python и Java. Опыт в разработке/тестировании мобильных приложений. Если Вы опытный пользователь..."
+    },
+    {
+      "title": "Research & Development Backend Developer",
+      "company": " INDG DIGITALE COMMUNICATIE bv",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35182943?query=python",
+      "responsibility": "Our culture brings together creative, tech and business individuals. It’s a heady cocktail that keeps us inspired, empowered and...",
+      "requirement": "Knowledge of at least ((Python or Ruby) and (Rust or C)). Geography, language. The job is full-time. "
+    },
+    {
+      "title": "Middle QA Engineer / Тестировщик ПО",
+      "company": "ООО РЕ:ПОИНТ",
+      "salary": "50 000-65 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35136520?query=python",
+      "responsibility": "Функциональное и интеграционное тестирование UI/API, а так же модулей ML. Коммуникации с проектной командой для принятия совместных решений об...",
+      "requirement": "Опыт тестирования Web-приложений, мобильных приложений (iOS и Android). Навыки программирования на любом высокоуровневом языке (предпочтительно Python). Опыт написание автотестов."
+    },
+    {
+      "title": "Руководитель направления разработки",
+      "company": "ООО Тензор",
+      "salary": "205 000-285 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/33942866?query=python",
+      "responsibility": "В сложных случаях, когда все скажут «пас», вам придется стать крайним и самому находить ошибки в программах ваших сотрудников. ",
+      "requirement": "На этой должности у Вас не будет времени, чтобы писать код самому. Но Вы должны уметь это делать лучше своей..."
+    },
+    {
+      "title": "QA automation engineer",
+      "company": " БАРС Груп",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34798862?query=python",
+      "responsibility": "Написание и поддержка актуальности автотестов. Мониторинг результатов прохождения тестов. Регрессионное тестирование.",
+      "requirement": "Знание теории тестирования ПО(тест-план, тест-кейс, чек-лист, классификация видов тестирования, техники тестирования). - Основы работы веб-приложений(понятия..."
+    },
+    {
+      "title": "QA Engineer (Германия, Мюнхен)",
+      "company": " Кадровое агентство Алексея Сухорукова",
+      "salary": "4 100-5 800 EUR",
+      "href": "https://vladivostok.hh.ru/vacancy/34628404?query=python",
+      "responsibility": "Вам будете разрабатывать эффективную систему тестирования: внедрять технологии, повышать точность тестов, выявлять критерии и изучать пользовательские истории. Работу с передовыми...",
+      "requirement": "Опыт работы с Unix. Знание инструментов разработки браузеров, CSS или JavaScript. Знание одного или нескольких языков программирования (Java/Groovy/Python)."
+    },
+    {
+      "title": "Systems Support Engineer",
+      "company": "ООО ClearScale",
+      "salary": "от 60 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35159137?query=python",
+      "responsibility": "Мониторинг клиентских сред (* NIX-systems): реакция на оповещения, обнаружение \"узких\" мест, анализ графиков и т.п. Предоставление качественного сервиса. ",
+      "requirement": "Знание LINUX на уровне администратора (NIX-systems protocol family TCP / IP). Знание bash/shell/awk/sed-skripting. Знание английского языка..."
+    },
+    {
+      "title": "Территориальный менеджер по технической поддержке продуктов эквайринга",
+      "company": " Сбербанк для экспертов",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35152451?query=python",
+      "responsibility": "Знание стандартных программных продуктов на уровне уверенного пользователя (Lotus Notes, Outlook, Power Poin). Знания языков програмирования (SQL, Java, Python).",
+      "requirement": "Высшее образование. Стаж работы в области технического обеспечения/сопровождения бизнеса не менее 3-х лет (опыт работы в области организации..."
+    },
+    {
+      "title": "Разработчик PHP (фреймворк Yii2 или Laravel)",
+      "company": "ООО Нэти",
+      "salary": "70 000-100 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35144109?query=python",
+      "responsibility": "Разрабатывать backend-часть в проектах мобильной разработки.",
+      "requirement": "Иметь опыт продуктивной разработки на PHP от 2 лет и выше. Иметь хорошие знания Yii2 или Laravel. "
+    },
+    {
+      "title": "Программист С++",
+      "company": "ООО СибСенсор",
+      "salary": "60 000-110 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34740910?query=python",
+      "responsibility": "Разработка графических интерфейсов для визуализации данных и настройки приборов. Разработка и реализация алгоритмов обработки данных. Разработка приложений для проведения испытаний...",
+      "requirement": "Умение работать в команде, предлагать, обсуждать, аргументировать. Знание скриптового языка, на пример Python, bash. Опыт работы с промышленными протоколами."
+    }
+  ],
+  [
+    {
+      "title": "Data scientist (Нижний Новгород)",
+      "company": " ANCOR FinTech",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34587229?query=python",
+      "responsibility": "Регулярные митапы в офисе с внешними спикерами из разных областей.",
+      "requirement": "Понимание алгоритмов машинного обучения, статистического анализа. Опыт построения аналитических моделей в Python. Умение работать с реляционными (SQL) и распределенными БД..."
+    },
+    {
+      "title": "Mobile Developer (Кипр, Лимассол)",
+      "company": " Кадровое агентство Алексея Сухорукова",
+      "salary": "6 000-8 000 EUR",
+      "href": "https://vladivostok.hh.ru/vacancy/34509481?query=python",
+      "responsibility": "",
+      "requirement": "Знание Java на уровне Middle+ или выше. Знание JS-фреймворков (React/Angular). Опыт разработки на Python. Обязательно потребуются: Английский на..."
+    },
+    {
+      "title": "Ведущий разработчик React Native",
+      "company": "ООО Нэти",
+      "salary": "80 000-120 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35144064?query=python",
+      "responsibility": "Разрабатывать мобильные приложения на React Native.",
+      "requirement": "Уверенные знания JavaScript. Опыт front-end разработки. Знание и понимание React / React Native. Понимание шаблонов ООП (design patterns) и принципов..."
+    },
+    {
+      "title": "Преподаватель Python",
+      "company": " Movavi",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35102865?query=python",
+      "responsibility": "Учить детей программированию на языке Python. Создать учебные планы и программы обучения. Создавать в школе вместе с другими преподавателями атмосферу...",
+      "requirement": "Техническое или педагогическое образование. Опыт работы с детьми. Уверенные знания язык Python и применения этих знаний на практике. "
+    },
+    {
+      "title": "Младший веб-тестировщик",
+      "company": " Movavi",
+      "salary": "от 35 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34757787?query=python",
+      "responsibility": "Ручное тестирование различных веб-сервисов компании (API, GUI, взаимодействие сервисов). Написание автотестов (Python, PHP). Регистрация дефектов в трекинговой системе JIRA. ",
+      "requirement": "Высшее (техническое/ИТ) образование. Знание теоретических основ тестирования. Опыт работы в тестировании от 1 года. Заинтересованность в дальнейшем развитии в..."
+    },
+    {
+      "title": "DevOps Engineer (DevOps инженер), Москва",
+      "company": " DriverPack Solution",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35122436?query=python",
+      "responsibility": "Нужно помочь разработчикам настроить цикл CI/CD для новых проектов. Тут придётся потрудиться: подумать над конфигурацией linux-серверов и сети...",
+      "requirement": "1. Мы честны друг с другом."
+    },
+    {
+      "title": ".NET developer (C#) программист/разработчик",
+      "company": " HR-trend, Консалтинговая Компания",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35140471?query=python",
+      "responsibility": "Все разработки компании основаны на фундаментальной и прикладной науке, проверены в рамках лабораторных и клинических испытаний. Разработка высоконагруженного сервиса на...",
+      "requirement": "Будет плюсом: Опыт работы с DevExpress. Опыт работы с Python3. Опыт работы с крупными БД, оптимизация работы сложны запросов. "
+    },
+    {
+      "title": "DevOps Engineer (IoT Platform)",
+      "company": " DataArt",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35132844?query=python",
+      "responsibility": "Увеличение времени безотказной работы и доступности системы, обеспечение функционирования и оптимальной производительности по SLA. Организация сквозного мониторинга и оповещений по...",
+      "requirement": "Опыт работы с системами управления конфигурацией (Chef или Puppet). Опыт работы на Ruby или Python; для автоматизации и мониторинга систем. "
+    },
+    {
+      "title": "Академический руководитель образовательной программы",
+      "company": " Новосибирский государственный университет",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/28154433?query=python",
+      "responsibility": "Основная задача: формирование центра компетенций по тематике анализа больших данных и машинному обучению. Осуществление методического и организационного сопровождения реализации основных...",
+      "requirement": "Уверенный пользователь офисных программ. Знание языка программирования Python. Базовые знания в анализе данных. Профессиональные знания и навыки: Интерес к ИТ..."
+    },
+    {
+      "title": "Software Validation Engineer",
+      "company": " Auriga",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35111432?query=python",
+      "responsibility": "Валидация и верификация функциональностей графического стека. Валидация графического процессора как на фазе проектирования и разработки, так и после выпуска готового...",
+      "requirement": "Опыт коммерческой разработки на С, С++ и Python от года. Хорошее понимание графического стека и архитектуры GPU. Английский язык – от..."
+    },
+    {
+      "title": "Python Engineer",
+      "company": " Grid Dynamics",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/34767212?query=python",
+      "responsibility": "Participate in design, development, delivery, and support tools/dashboards to gather metrics and data for the data visualization tool. ",
+      "requirement": "Proven programming experience with Python, Go. Experience in building and working with Django is a plus. Proven experience working with..."
+    },
+    {
+      "title": "Full Stack Developer (Кипр, Лимассол)",
+      "company": " Кадровое агентство Алексея Сухорукова",
+      "salary": "6 000-8 000 EUR",
+      "href": "https://vladivostok.hh.ru/vacancy/34360167?query=python",
+      "responsibility": "Вам предстоит искать новые решения в существующих продуктах и разрабатывать их прототипы. А также осуществлять поддержку существующих проектов. Swift.",
+      "requirement": "Опыт работы с JavaScript-фреймворками (React/Angular). Знание SQL-ориентированных баз данных (MySQL, PostgreSQL, Oracle, HSQLDB). Готовность самостоятельно искать пути..."
+    },
+    {
+      "title": "Frontend разработчик / front-end / front end developer",
+      "company": "ООО МКК Русинтерфинанс",
+      "salary": "120 000-240 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35089797?query=python",
+      "responsibility": "Инфраструктура: мониторинг, docker, puppet. Фронт на Angular (NgRx, Nrwl, NgUniversal).",
+      "requirement": "Front end developer от 3 лет: angular / react / vue. Можно без знания бэкенда."
+    },
+    {
+      "title": "Team lead в Сервисы для организаций",
+      "company": " Яндекс",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35021070?query=python",
+      "responsibility": "В автоматизацию бэк-офиса входят сервисы, которые помогают улучшать процессы в HR, аудите, закупках и других подразделениях. Коллаборация – это те...",
+      "requirement": "...экспертиза в Python. Опыт использования различных веб-фреймворков: синхроонных (Django, Flask) и асинхронных (Tornado, Asyncio). Знания всей экосистемы Python. "
+    },
+    {
+      "title": "Методист в команду курса Информатики Яндекс Учебника",
+      "company": " Яндекс",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35097238?query=python",
+      "responsibility": "Что делают наши методисты? Находят авторов контента (и сами являются такими авторами), проектируют собственную последовательность подачи материала, взаимодействуют с дизайнерами...",
+      "requirement": "Умеете программировать на любом современном языке программирования (желательно Python). Знаете разные системы обучения информатике и готовы анализировать современные подходы и..."
+    },
+    {
+      "title": "Ведущий PHP-разработчик / Senior php-developer",
+      "company": "ООО МКК Русинтерфинанс",
+      "salary": "200 000-250 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/35089731?query=python",
+      "responsibility": "Полное покрытие тестами и покоммитная сборка в TeamCity. Инфраструктура: мониторинг, docker, puppet. Аналитика и data mining. Antifraud/anomaly detection системы. ",
+      "requirement": "PHP 7.х, Symfony, Cake. Full stack developer от 4 лет. Пригодятся ваши знания в e-commerce и geo-сервисах."
+    },
+    {
+      "title": "Python Developer (Германия, Мюнхен)",
+      "company": " Кадровое агентство Алексея Сухорукова",
+      "salary": "4 100-5 800 EUR",
+      "href": "https://vladivostok.hh.ru/vacancy/30533272?query=python",
+      "responsibility": "Разработка и внедрение облачных решений для сервиса рендеринга и конфигурирования. Разработка и внедрение API, связывающих различные сервисы. Сотрудничество с командами...",
+      "requirement": "От 3 лет работы в Python 3. Опыт работы с серверным программированием (Django, Flask, Pyramid, Tornado или аналогичных). "
+    },
+    {
+      "title": "Инженер направления DBA",
+      "company": "ООО С7 Информационные технологии",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35088333?query=python",
+      "responsibility": "Поддерживать существующие и создавать новые экземпляры PostgreSQL. Искать и устранять проблемы производительности. Разрабатывать новые и развивать старые способы обеспечения отказо...",
+      "requirement": "Имеешь навык написания скриптов (sql, bash, python). Владеешь техническим английским (уровень - чтение документации). Хочешь развиваться и готов глубоко погружаться в..."
+    },
+    {
+      "title": "Data Scientist",
+      "company": " ЛАНИТ-ТЕХНОЛОГИИ",
+      "salary": "Не указано",
+      "href": "https://vladivostok.hh.ru/vacancy/35032339?query=python",
+      "responsibility": "Решение исследовательских и прикладных задач в рамках создания и развития продуктов компании с применением современных методов статистического анализа и машинного...",
+      "requirement": "Опыт работы с библиотеками Python для статистического анализа данных и машинного обучения: pandas, Scikit-Learn, NumPy, SciPy, StatsModels. "
+    },
+    {
+      "title": "Python Developer (Кипр, Лимассол)",
+      "company": " Кадровое агентство Алексея Сухорукова",
+      "salary": "6 000-8 000 EUR",
+      "href": "https://vladivostok.hh.ru/vacancy/34924673?query=python",
+      "responsibility": "Java на уровне Middle+.",
+      "requirement": "Опыт разработки на Python от 3 лет (Django). Опыт работы с данными (ETL, Big Data, написание и обработка отчетов). "
+    }
+  ],
+  [
+    {
+      "title": "Специалист технической поддержки хостинга",
+      "company": "ООО Серверные Технологии",
+      "salary": "от 40 000 руб.",
+      "href": "https://vladivostok.hh.ru/vacancy/34996907?query=python",
+      "responsibility": "Поддержка и мониторинг обслуживаемых компанией серверов (работа в команде, более 500 серверов). Взаимодействие с клиентами, работа с тикетами. ",
+      "requirement": "Более 3 лет опыта администрирования *nix (преимущественно CentOS и Ubuntu). Опыт администрирования Windows Server приветствуется. Опыт администрирование основных сервисов (FTP..."
+    }
+  ]
+]
