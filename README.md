@@ -15,7 +15,8 @@ There is no "headers.py" file in the project, I think it is noticeable.
 It has a simple dictionary with written accept and user-agent from the browser
 
 Most likely, many aspects are terribly rude, but this is all so, these are all jokes
-For example, "for" for the parsing function itself is almost useless data.py
+For example, almost useless "data.py"
+
 
 I think a lot more can be found, in general, home: Scaffold (body: Center (child: Text ("Goodbye and good luck")))
 
@@ -37,7 +38,6 @@ main.py - основной файл, кототорый и нужно запус
 В нем простой словарь с записанным accept и user-agent из браузера
 
 Скорее всего многие аспекты ужасно грубые, но это все так, па преколу
-К примеру for для самой функции парсинга, практически бесполезный data.py
+К примеру практически бесполезный data.py
 
 Думаю много чего ещё можно будет найти, в общем home: Scaffold(body: Center(child: Text("Пака и удачи")))
-
