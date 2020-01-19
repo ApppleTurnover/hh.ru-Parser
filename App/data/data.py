@@ -6,8 +6,16 @@ class Data:
     def base_url(city:int):
         return f"https://hh.ru/search/vacancy?area={city}&text=python&page=0"
 
-    citys = {
+    def pages(city: int, count_pages: int):
+        page = 0
+        for page in range(count_pages):
+            yield f"https://hh.ru/search/vacancy?area={city}&text=python&page={page}"
+            page += 1
+
+
+    regions = {
     'moscow': 1,
     'spb': 2,
     'novosibirsk': 4,
+    'russia': 113,
     }
