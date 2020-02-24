@@ -1,8 +1,13 @@
 import requests
+import os
 import time
 import json
+
 from bs4 import BeautifulSoup as bs
 from data.data import Data
+
+path = os.path.join(os.path.dirname(__file__))
+print(path)
 
 
 def parse(headers: dict, pages:'generator'):
@@ -62,14 +67,14 @@ def find_max_pages(headers: dict, base_url: str):
 
 
 def save_data(jobs):
-    with open('data/jobs.json', 'w', encoding='utf8') as file:
+    with open(f'{path}/data/jobs.json', 'w', encoding='utf8') as file:
             json.dump(jobs, file, ensure_ascii=False, indent=2)
 
 
 
 
 if __name__ == '__main__':
-    region = Data.regions['spb']
+    region = Data.regions['novosibirsk']
     max = find_max_pages(Data.headers, Data.base_url(region))
     print(max)
     jobs = list(parse(Data.headers, Data.pages(region, max)))
